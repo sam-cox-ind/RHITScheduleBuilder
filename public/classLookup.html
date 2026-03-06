@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <link rel="stylesheet" href="styles/bootstrap-material-design.min.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Rose Scheduler</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-dark fixed-top">
+    <a class="navbar-brand" href="#">Class Look up Page</a>
+  </nav>
+
+  <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay">
+    <header class="bmd-layout-header">
+      <div class="navbar navbar-dark bg-faded fixed-top justify-content-start">
+        <button class="navbar-toggler" type="button" data-toggle="drawer" data-target="#dw-s2">
+          <span class="sr-only">Toggle drawer</span>
+          <i class="material-icons">menu</i>
+        </button>
+        <a class="navbar-brand" href="#">&nbsp;&nbsp;Rose Schedule Planner</a>
+      </div>
+    </header>
+    <div id="dw-s2" class="bmd-layout-drawer bg-faded">
+      <header>
+        <a class="navbar-brand"></a>
+      </header>
+      <ul class="list-group">
+        <a id="menuShowSchedules" class="list-group-item clickable"><i class="material-icons">list</i>My Schedules</a>
+        <a id="menuShowScheduleBuilder" class="list-group-item clickable"><i class="material-icons">construction</i>Schedule
+          Builder</a>
+        <a id="showClassSearch" class="list-group-item clickable"><i class="material-icons">search</i>Class Search</a>
+        <a id="menuSignOut" class="list-group-item clickable"><i class="material-icons">login</i>Sign Out</a>
+      </ul>
+    </div>
+    <main class="bmd-layout-content">
+      
+      <!-- start of non menu code -->
+      <div id="lookupPage" class="container page-container">
+        <div class="dropdown" id="dropdownMenu">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Quarter
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a id="selectFall" class="dropdown-item" href="#">Fall 23</a>
+            <a id="selectSummer" class="dropdown-item" href="#">Summer 23</a>
+            <a id="selectSpring" class="dropdown-item" href="#">Spring 23</a>
+          </div>
+        </div>
+
+        <div id="searchBars" class="row">
+          <div class="col-md-12">
+            <label for="inputCourse">Course ID</label>
+            <input type="text" class="form-control" id="inputCourse" placeholder="">
+          </div>
+          <div class="col-md-12">
+            <label for="inputProfessor">Professor</label>
+            <input type="text" class="form-control" id="inputProfessor" placeholder="">
+          </div>
+          <div class="col-md-12">
+            <label for="inputDepartment">Department</label>
+            <select class="form-control" id="inputDepartment">
+              <option value="NA">Select Department</option>
+              <option value="BBE">Biology and Biomedical Engr</option>
+              <option value="CHE">Chemical Engineering</option>
+              <option value="CHEM">Chemistry and Biochemistry</option>
+              <option value="CE">Civil & Environmental Engr</option>
+              <option value="CSSE">Comp Science and Software Engr</option>
+              <option value="ECE">Electrical and Computer Engr</option>
+              <option value="ENGD">Engineering Design</option>
+              <option value="EMGT">Engineering Management</option>
+              <option value="HSSA">Humanities, Social Science, Arts</option>
+              <option value="MA">Mathematics</option>
+              <option value="ME">Mechanical Engineering</option>
+              <option value="PHOE">Physics and Optical Eng</option>
+            </select>
+          </div>
+        </div>
+        <button id="lookupButton" class="btn btn-primary">Look Up</button>
+      </div>
+
+      <table class="table" id="lookupTable" style="width: 80%; margin: 0 auto;">
+        <thead>
+          <tr>
+            <th colspan="6" style="background-color: #800000; color: white;">Classes Found: </th>
+          </tr>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Course ID</th>
+            <th scope="col">CRN</th>
+            <th scope="col">Professor</th>
+            <th scope="col">Time</th>
+            <th scope="col">Credit Hours</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+
+    </main>
+  </div>
+
+  <script src="scripts/jquery.min.js"></script>
+  <script src="scripts/popper.js"></script>
+  <script src="scripts/bootstrap-material-design.js"></script>
+  <script>$("body").bootstrapMaterialDesign();</script>
+  <script src="/__/firebase/7.18.0/firebase-app.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-analytics.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-auth.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-firestore.js"></script>
+  <script src="/__/firebase/init.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,5652 @@
+[
+    {
+        "CID": "00ABRD-DD1",
+        "CRN": "1002",
+        "Name": "Study Abroad: Due Degree Prog",
+        "Prof": "tba",
+        "Hours": "0TO12",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "00ABRD-DD2",
+        "CRN": "1003",
+        "Name": "Study Abroad:Dual Degr w/Crses",
+        "Prof": "tba",
+        "Hours": "0TO12",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "00CO-OP-00",
+        "CRN": "1001",
+        "Name": "Co-Op Assignment",
+        "Prof": "tba",
+        "Hours": "0TO12",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "ANTHS101-01",
+        "CRN": "1529",
+        "Name": "Introduction to Anthropology",
+        "Prof": "christen",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/9:00/J202"
+    },
+    {
+        "CID": "ANTHS101-02",
+        "CRN": "1530",
+        "Name": "Introduction to Anthropology",
+        "Prof": "christen",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/10:00/J202"
+    },
+    {
+        "CID": "ANTHS140-01",
+        "CRN": "1606",
+        "Name": "Introduction to East Asia",
+        "Prof": "grose",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "25",
+        "Time": "MTRF/8:00/J204"
+    },
+    {
+        "CID": "ANTHS140-02",
+        "CRN": "1607",
+        "Name": "Introduction to East Asia",
+        "Prof": "grose",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/9:00/J204"
+    },
+    {
+        "CID": "ANTHS202-01",
+        "CRN": "1533",
+        "Name": "Anthropology of Addiction",
+        "Prof": "christen",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/1:00/J202"
+    },
+    {
+        "CID": "ANTHS208-01",
+        "CRN": "1534",
+        "Name": "Religion in China",
+        "Prof": "grose",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "25",
+        "Time": "MTRF/11:00/J204"
+    },
+    {
+        "CID": "ARTSH142-01",
+        "CRN": "1535",
+        "Name": "Beginning Drawing",
+        "Prof": "abas",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "TR/9:00-10:50/M233"
+    },
+    {
+        "CID": "ARTSH142-02",
+        "CRN": "1536",
+        "Name": "Beginning Drawing",
+        "Prof": "abas",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "TR/12:00-1:50/M233"
+    },
+    {
+        "CID": "ARTSH242-01",
+        "CRN": "1537",
+        "Name": "Visual Arts in Civilization",
+        "Prof": "abas",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "25",
+        "Time": "MW/9:00-10:50/J213"
+    },
+    {
+        "CID": "AS101-01",
+        "CRN": "1632",
+        "Name": "Foundation of US Air Force I",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": ""
+    },
+    {
+        "CID": "AS201-01",
+        "CRN": "1633",
+        "Name": "Team & Leadership Fundamntls I",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": ""
+    },
+    {
+        "CID": "AS301-01",
+        "CRN": "1634",
+        "Name": "Leading People, Effective Comm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "25",
+        "Time": ""
+    },
+    {
+        "CID": "AS401-01",
+        "CRN": "1635",
+        "Name": "Nat'l Sec Affairs & Prep I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "25",
+        "Time": ""
+    },
+    {
+        "CID": "BE100-01",
+        "CRN": "1239",
+        "Name": "Prob Solving in Bio Sci & Engr",
+        "Prof": "buckley",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MRF/9:00-10:50/TBA"
+    },
+    {
+        "CID": "BE100-02",
+        "CRN": "1240",
+        "Name": "Prob Solving in Bio Sci & Engr",
+        "Prof": "buckley",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MRF/12:00-1:50/M103"
+    },
+    {
+        "CID": "BE118-01",
+        "CRN": "1241",
+        "Name": "Design Thinking & Communicatns",
+        "Prof": "dee",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "T/9:00/O231; W/8:00-10:50/O233"
+    },
+    {
+        "CID": "BE118-02",
+        "CRN": "1242",
+        "Name": "Design Thinking & Communicatns",
+        "Prof": "dee",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "T/10:00/O231; W/11:00-1:50/O233"
+    },
+    {
+        "CID": "BE211-01",
+        "CRN": "1243",
+        "Name": "Circuits, Sensors, Measuremnts",
+        "Prof": "chiu",
+        "Hours": "3",
+        "Enrl": "27",
+        "Cap": "30",
+        "Time": "MR/1:00/O231"
+    },
+    {
+        "CID": "BE211-02",
+        "CRN": "1244",
+        "Name": "Circuits, Sensors, Measuremnts",
+        "Prof": "chiu",
+        "Hours": "3",
+        "Enrl": "25",
+        "Cap": "30",
+        "Time": "MR/12:00/O269"
+    },
+    {
+        "CID": "BE211L-51",
+        "CRN": "1245",
+        "Name": "Circuits,Sensors,Meas Lab",
+        "Prof": "chiu",
+        "Hours": "0",
+        "Enrl": "17",
+        "Cap": "18",
+        "Time": "W/8:00-10:50/M203"
+    },
+    {
+        "CID": "BE211L-52",
+        "CRN": "1246",
+        "Name": "Circuits,Sensors,Meas Lab",
+        "Prof": "chiu",
+        "Hours": "0",
+        "Enrl": "17",
+        "Cap": "18",
+        "Time": "W/11:00-1:50/M203"
+    },
+    {
+        "CID": "BE218-01",
+        "CRN": "1247",
+        "Name": "Design Methodologies",
+        "Prof": "alhalawa",
+        "Hours": "3",
+        "Enrl": "20",
+        "Cap": "24",
+        "Time": "MR/9:00/O231; W/11:00-1:50/TBA"
+    },
+    {
+        "CID": "BE218-02",
+        "CRN": "1248",
+        "Name": "Design Methodologies",
+        "Prof": "alhalawa",
+        "Hours": "3",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "MR/10:00/O231; W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "BE314-01",
+        "CRN": "1249",
+        "Name": "Musculoskel Syst Physio w/Apps",
+        "Prof": "ahmed",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/3:00/O231"
+    },
+    {
+        "CID": "BE314-02",
+        "CRN": "1250",
+        "Name": "Musculoskel Syst Physio w/Apps",
+        "Prof": "ahmed",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "24",
+        "Time": "MTRF/4:00/O231"
+    },
+    {
+        "CID": "BE315-01",
+        "CRN": "1251",
+        "Name": "Biomedical Engineering Lab I",
+        "Prof": "ahmed&bhatta1",
+        "Hours": "2",
+        "Enrl": "15",
+        "Cap": "24",
+        "Time": "M/11:00/B111; W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "BE315-02",
+        "CRN": "1252",
+        "Name": "Biomedical Engineering Lab I",
+        "Prof": "ahmed&bhatta1",
+        "Hours": "2",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "M/11:00/M137; W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "BE318-01",
+        "CRN": "1253",
+        "Name": "Medical Device Research & Desn",
+        "Prof": "rogge",
+        "Hours": "3",
+        "Enrl": "8",
+        "Cap": "24",
+        "Time": "MR/1:00/O267; W/11:00-1:50/O205"
+    },
+    {
+        "CID": "BE318-02",
+        "CRN": "1254",
+        "Name": "Medical Device Research & Desn",
+        "Prof": "rogge",
+        "Hours": "3",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MR/2:00/O267; W/11:00-1:50/O205"
+    },
+    {
+        "CID": "BE418-01",
+        "CRN": "1255",
+        "Name": "Cpst Dsn III:Prod Verifctn,Val",
+        "Prof": "rogge&chiu",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "MTR/10:00/M107; W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "BE492-01",
+        "CRN": "1612",
+        "Name": "MATAB Independent study",
+        "Prof": "dosmare",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "BE550-01",
+        "CRN": "1256",
+        "Name": "Resrch Methods in Biomechanics",
+        "Prof": "alhalawa",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "24",
+        "Time": "MTRF/12:00/M111"
+    },
+    {
+        "CID": "BE597-01",
+        "CRN": "1257",
+        "Name": "Surface Treatments Biomaterial",
+        "Prof": "bhatta1",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "24",
+        "Time": "MTRF/9:00/G220"
+    },
+    {
+        "CID": "BIO101-01",
+        "CRN": "1271",
+        "Name": "Essential Biology",
+        "Prof": "hill2",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "MTR/10:00/M137"
+    },
+    {
+        "CID": "BIO101-02",
+        "CRN": "1272",
+        "Name": "Essential Biology",
+        "Prof": "grabowsk",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "MTR/9:00/M137"
+    },
+    {
+        "CID": "BIO101L-01",
+        "CRN": "1274",
+        "Name": "Essential Biology Lab",
+        "Prof": "hill2",
+        "Hours": "0",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "F/8:00-10:50/O107"
+    },
+    {
+        "CID": "BIO101L-02",
+        "CRN": "1276",
+        "Name": "Essential Biology Lab",
+        "Prof": "grabowsk",
+        "Hours": "0",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "F/11:00-1:50/O107"
+    },
+    {
+        "CID": "BIO130-01",
+        "CRN": "1278",
+        "Name": "Evolution & Diversity",
+        "Prof": "ingram",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTR/9:00/M115"
+    },
+    {
+        "CID": "BIO130-02",
+        "CRN": "1279",
+        "Name": "Evolution & Diversity",
+        "Prof": "ingram",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTR/10:00/M115"
+    },
+    {
+        "CID": "BIO130L-51",
+        "CRN": "1280",
+        "Name": "Evolution & Diversity",
+        "Prof": "ingram",
+        "Hours": "0",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/O107"
+    },
+    {
+        "CID": "BIO130L-52",
+        "CRN": "1281",
+        "Name": "Evolution & Diversity",
+        "Prof": "ingram",
+        "Hours": "0",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "BIO210-01",
+        "CRN": "1283",
+        "Name": "Mendelian & Molecular Genetics",
+        "Prof": "grabowsk",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "W/11:00-1:50/O107; MTR/11:00/TBA"
+    },
+    {
+        "CID": "BIO399-01",
+        "CRN": "1284",
+        "Name": "Practice of Science",
+        "Prof": "weiner",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "24",
+        "Time": "F/1:00-2:50/TBA; T/1:00-2:50/O231"
+    },
+    {
+        "CID": "BIO497-01",
+        "CRN": "1285",
+        "Name": "Thesis Research II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "BIO498-01",
+        "CRN": "1286",
+        "Name": "Thesis Research III",
+        "Prof": "hill2",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": ""
+    },
+    {
+        "CID": "CE101-01",
+        "CRN": "1187",
+        "Name": "Engineering Surveying",
+        "Prof": "sutterer",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "13",
+        "Time": "MR/1:00-3:50/O113"
+    },
+    {
+        "CID": "CE101-02",
+        "CRN": "1188",
+        "Name": "Engineering Surveying",
+        "Prof": "sutterer",
+        "Hours": "2",
+        "Enrl": "7",
+        "Cap": "13",
+        "Time": "TF/1:00-3:50/O113"
+    },
+    {
+        "CID": "CE205-01",
+        "CRN": "1189",
+        "Name": "Thermodynamics",
+        "Prof": "marincel",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "34",
+        "Time": "MTRF/12:00/O229"
+    },
+    {
+        "CID": "CE303-01",
+        "CRN": "1190",
+        "Name": "Engineering Economics",
+        "Prof": "collins2",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "19",
+        "Time": "MTRF/9:00/B106"
+    },
+    {
+        "CID": "CE303-02",
+        "CRN": "1191",
+        "Name": "Engineering Economics",
+        "Prof": "collins2",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "19",
+        "Time": "MTRF/10:00/B106"
+    },
+    {
+        "CID": "CE321-01",
+        "CRN": "1192",
+        "Name": "Structural Mechanics I",
+        "Prof": "hanson",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "20",
+        "Time": "MTRF/8:00/O113"
+    },
+    {
+        "CID": "CE321-02",
+        "CRN": "1193",
+        "Name": "Structural Mechanics I",
+        "Prof": "hanson",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "20",
+        "Time": "MTRF/9:00/O113"
+    },
+    {
+        "CID": "CE336-01",
+        "CRN": "1194",
+        "Name": "Soil Mechanics",
+        "Prof": "kershaw",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "19",
+        "Time": "MTR/9:00/O227; T/1:00-3:50/O110"
+    },
+    {
+        "CID": "CE336-02",
+        "CRN": "1195",
+        "Name": "Soil Mechanics",
+        "Prof": "kershaw",
+        "Hours": "4",
+        "Enrl": "18",
+        "Cap": "19",
+        "Time": "MTR/10:00/O227; F/1:00-3:50/O110"
+    },
+    {
+        "CID": "CE371-01",
+        "CRN": "1196",
+        "Name": "Hydraulics",
+        "Prof": "muellerp",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "19",
+        "Time": "MTR/10:00/O110; M/1:00-3:50/O110"
+    },
+    {
+        "CID": "CE371-02",
+        "CRN": "1199",
+        "Name": "Hydraulics",
+        "Prof": "muellerp",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "19",
+        "Time": "MTR/11:00/O110; W/1:00-3:50/O110"
+    },
+    {
+        "CID": "CE436-01",
+        "CRN": "1203",
+        "Name": "Foundation Engineering",
+        "Prof": "kershaw",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "12",
+        "Time": "MTRF/11:00/O113"
+    },
+    {
+        "CID": "CE445-01",
+        "CRN": "1204",
+        "Name": "Construc Methods & Equipment",
+        "Prof": "sutterer",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "12",
+        "Time": "W/1:00-3:50/O227; TRF/8:00/O227"
+    },
+    {
+        "CID": "CE450-01",
+        "CRN": "1205",
+        "Name": "Civil Engr Codes & Regulations",
+        "Prof": "shrestha",
+        "Hours": "4",
+        "Enrl": "32",
+        "Cap": "38",
+        "Time": "MTRF/12:00/E104"
+    },
+    {
+        "CID": "CE480-01",
+        "CRN": "1206",
+        "Name": "Geometric Desn Highways,Street",
+        "Prof": "sutterer",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "12",
+        "Time": "MTRF/11:00/O227"
+    },
+    {
+        "CID": "CE486-01",
+        "CRN": "1482",
+        "Name": "Civil Eng Desn & Synthesis I",
+        "Prof": "muellerp",
+        "Hours": "2",
+        "Enrl": "32",
+        "Cap": "38",
+        "Time": "M/4:00/O227; W/9:00-11:50/O227"
+    },
+    {
+        "CID": "CE486-02",
+        "CRN": "1483",
+        "Name": "Civil Eng Desn & Synthesis I",
+        "Prof": "aidoo",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "M/4:00/O229; W/9:00-11:50/O229"
+    },
+    {
+        "CID": "CE524-01",
+        "CRN": "1209",
+        "Name": "Building Design",
+        "Prof": "aidoo",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "8",
+        "Time": "MTRF/2:00/O227"
+    },
+    {
+        "CID": "CE532-01",
+        "CRN": "1210",
+        "Name": "Structural Desn in Concrete II",
+        "Prof": "aidoo",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "8",
+        "Time": "MTR/10:00/O113; W/1:00-3:50/O113"
+    },
+    {
+        "CID": "CE535-01",
+        "CRN": "1211",
+        "Name": "Struc Des in Prestressed Concr",
+        "Prof": "lovellmd",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "12",
+        "Time": "MTRF/3:00/O227"
+    },
+    {
+        "CID": "CE563-01",
+        "CRN": "1212",
+        "Name": "Advanced Water Treatment",
+        "Prof": "marincel",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "12",
+        "Time": "MTRF/9:00/O110"
+    },
+    {
+        "CID": "CE564-01",
+        "CRN": "1213",
+        "Name": "Aquatic Environmental Chem",
+        "Prof": "shrestha",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "12",
+        "Time": "MTRF/8:00/O110"
+    },
+    {
+        "CID": "CE597-01",
+        "CRN": "1610",
+        "Name": "Resilent Infrastructure Resear",
+        "Prof": "kershaw",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "CHE200-OL1",
+        "CRN": "1198",
+        "Name": "Career Preparation I",
+        "Prof": "chenette",
+        "Hours": "0",
+        "Enrl": "41",
+        "Cap": "60",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CHE201-01",
+        "CRN": "1200",
+        "Name": "Conservation Princ & Balances",
+        "Prof": "henthor1",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "32",
+        "Time": "MTRF/9:00/O201"
+    },
+    {
+        "CID": "CHE201-02",
+        "CRN": "1201",
+        "Name": "Conservation Princ & Balances",
+        "Prof": "henthor1",
+        "Hours": "4",
+        "Enrl": "32",
+        "Cap": "32",
+        "Time": "MTRF/10:00/O201"
+    },
+    {
+        "CID": "CHE201-03",
+        "CRN": "1202",
+        "Name": "Conservation Princ & Balances",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTRF/12:00/O201"
+    },
+    {
+        "CID": "CHE301-01",
+        "CRN": "1215",
+        "Name": "Fluid Mechanics",
+        "Prof": "henthor1",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "20",
+        "Time": "MTRF/12:00/O157"
+    },
+    {
+        "CID": "CHE303-01",
+        "CRN": "1216",
+        "Name": "CHE Thermodynamics I",
+        "Prof": "nolte",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "20",
+        "Time": "MTRF/9:00/O105"
+    },
+    {
+        "CID": "CHE304-01",
+        "CRN": "1217",
+        "Name": "Multi-Component Thermo",
+        "Prof": "mcclell1",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/12:00/O257"
+    },
+    {
+        "CID": "CHE304-02",
+        "CRN": "1218",
+        "Name": "Multi-Component Thermo",
+        "Prof": "mcclell1",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "24",
+        "Time": "MTRF/1:00/O257"
+    },
+    {
+        "CID": "CHE315-01",
+        "CRN": "1219",
+        "Name": "Materials Science & Engr",
+        "Prof": "henthorn",
+        "Hours": "4",
+        "Enrl": "28",
+        "Cap": "24",
+        "Time": "MTRF/10:00/O205"
+    },
+    {
+        "CID": "CHE320-01",
+        "CRN": "1580",
+        "Name": "Fundmntls of Heat & Mass Trans",
+        "Prof": "dutrow",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/9:00/O167"
+    },
+    {
+        "CID": "CHE320-02",
+        "CRN": "1581",
+        "Name": "Fundmntls of Heat & Mass Trans",
+        "Prof": "dutrow",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "24",
+        "Time": "MTRF/10:00/O167"
+    },
+    {
+        "CID": "CHE404-01",
+        "CRN": "1220",
+        "Name": "Reaction Engineering",
+        "Prof": "brockman",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTRF/12:00/O105"
+    },
+    {
+        "CID": "CHE409-01",
+        "CRN": "1197",
+        "Name": "Professional Practice",
+        "Prof": "anastasi&nolte",
+        "Hours": "1",
+        "Enrl": "41",
+        "Cap": "42",
+        "Time": "W/9:00-10:50/M103"
+    },
+    {
+        "CID": "CHE412-01",
+        "CRN": "1221",
+        "Name": "Chemical Engr Lab Project II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "41",
+        "Cap": "45",
+        "Time": "MTWR/2:00-4:50/O100"
+    },
+    {
+        "CID": "CHE416-01",
+        "CRN": "1222",
+        "Name": "Design I: Proc Econ & Equp Dsn",
+        "Prof": "serbezov&anastasi",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "22",
+        "Time": "MTRF/9:00/O233"
+    },
+    {
+        "CID": "CHE416-02",
+        "CRN": "1223",
+        "Name": "Design I: Proc Econ & Equp Dsn",
+        "Prof": "serbezov&anastasi",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/10:00/O233"
+    },
+    {
+        "CID": "CHE419-01",
+        "CRN": "1224",
+        "Name": "Adv MEMS: Modeling & Packaging",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHE441-01",
+        "CRN": "1225",
+        "Name": "Polymer Engineering",
+        "Prof": "chenette",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "15",
+        "Time": "MTRF/11:00/O159"
+    },
+    {
+        "CID": "CHE499-0",
+        "CRN": "1227",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "0TO8",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHE513-01",
+        "CRN": "1228",
+        "Name": "Adv CHE Thermodynamics",
+        "Prof": "mcclell1",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "15",
+        "Time": "MTRF/10:00/TBA"
+    },
+    {
+        "CID": "CHE519-01",
+        "CRN": "1229",
+        "Name": "Adv MEMS: Modeling & Packaging",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHE598-01",
+        "CRN": "1230",
+        "Name": "Graduate Seminar",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHE599-0",
+        "CRN": "1231",
+        "Name": "Thesis Research",
+        "Prof": "tba",
+        "Hours": "0TO12",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHEM111-01",
+        "CRN": "1289",
+        "Name": "General Chemistry I",
+        "Prof": "mueller",
+        "Hours": "3",
+        "Enrl": "17",
+        "Cap": "15",
+        "Time": "MTR/9:00/E104"
+    },
+    {
+        "CID": "CHEM111-02",
+        "CRN": "1290",
+        "Name": "General Chemistry I",
+        "Prof": "mueller",
+        "Hours": "3",
+        "Enrl": "16",
+        "Cap": "15",
+        "Time": "MTR/10:00/E104"
+    },
+    {
+        "CID": "CHEM111-03",
+        "CRN": "1291",
+        "Name": "General Chemistry I",
+        "Prof": "tilstra",
+        "Hours": "3",
+        "Enrl": "14",
+        "Cap": "15",
+        "Time": "MTR/1:00/O103"
+    },
+    {
+        "CID": "CHEM111-04",
+        "CRN": "1292",
+        "Name": "General Chemistry I",
+        "Prof": "morris",
+        "Hours": "3",
+        "Enrl": "16",
+        "Cap": "15",
+        "Time": "MTR/12:00/B111"
+    },
+    {
+        "CID": "CHEM111-05",
+        "CRN": "1293",
+        "Name": "General Chemistry I",
+        "Prof": "tuley",
+        "Hours": "3",
+        "Enrl": "13",
+        "Cap": "16",
+        "Time": "MTR/8:00/O203-2"
+    },
+    {
+        "CID": "CHEM111-06",
+        "CRN": "1294",
+        "Name": "General Chemistry I",
+        "Prof": "tuley",
+        "Hours": "3",
+        "Enrl": "18",
+        "Cap": "15",
+        "Time": "MTR/11:00/G308"
+    },
+    {
+        "CID": "CHEM111L-51",
+        "CRN": "1295",
+        "Name": "General Chemistry I Lab",
+        "Prof": "mueller",
+        "Hours": "1",
+        "Enrl": "13",
+        "Cap": "13",
+        "Time": "M/2:00-4:50/J310"
+    },
+    {
+        "CID": "CHEM111L-53",
+        "CRN": "1296",
+        "Name": "General Chemistry I Lab",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "15",
+        "Cap": "13",
+        "Time": "T/2:00-4:50/J310"
+    },
+    {
+        "CID": "CHEM111L-54",
+        "CRN": "1297",
+        "Name": "General Chemistry I Lab",
+        "Prof": "mueller",
+        "Hours": "1",
+        "Enrl": "15",
+        "Cap": "13",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "CHEM111L-55",
+        "CRN": "1298",
+        "Name": "General Chemistry I Lab",
+        "Prof": "brandt",
+        "Hours": "1",
+        "Enrl": "16",
+        "Cap": "13",
+        "Time": "W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "CHEM111L-56",
+        "CRN": "1299",
+        "Name": "General Chemistry I Lab",
+        "Prof": "devasher",
+        "Hours": "1",
+        "Enrl": "13",
+        "Cap": "13",
+        "Time": "R/2:00-4:50/J310"
+    },
+    {
+        "CID": "CHEM111L-57",
+        "CRN": "1300",
+        "Name": "General Chemistry I Lab",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "13",
+        "Cap": "13",
+        "Time": "F/8:00-10:50/J310"
+    },
+    {
+        "CID": "CHEM111L-58",
+        "CRN": "1301",
+        "Name": "General Chemistry I Lab",
+        "Prof": "brandt",
+        "Hours": "1",
+        "Enrl": "10",
+        "Cap": "13",
+        "Time": "F/2:00-4:50/J308"
+    },
+    {
+        "CID": "CHEM112-01",
+        "CRN": "1302",
+        "Name": "General Chemistry Honors",
+        "Prof": "sunahori",
+        "Hours": "5",
+        "Enrl": "2",
+        "Cap": "9",
+        "Time": "MTRF/1:00/B106; W/8:00-10:50/M107"
+    },
+    {
+        "CID": "CHEM112-02",
+        "CRN": "1303",
+        "Name": "General Chemistry Honors",
+        "Prof": "weatherm",
+        "Hours": "5",
+        "Enrl": "5",
+        "Cap": "9",
+        "Time": "MTRF/11:00/O105; W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "CHEM113-01",
+        "CRN": "1304",
+        "Name": "General Chemistry II",
+        "Prof": "kamasah",
+        "Hours": "3",
+        "Enrl": "17",
+        "Cap": "24",
+        "Time": "MTR/11:00/E104"
+    },
+    {
+        "CID": "CHEM113L-51",
+        "CRN": "1305",
+        "Name": "General Chemistry II Lab",
+        "Prof": "kamasah",
+        "Hours": "1",
+        "Enrl": "18",
+        "Cap": "24",
+        "Time": "R/2:00-4:50/J308"
+    },
+    {
+        "CID": "CHEM225-01",
+        "CRN": "1306",
+        "Name": "Analytical Chemistry I",
+        "Prof": "morris",
+        "Hours": "3",
+        "Enrl": "35",
+        "Cap": "40",
+        "Time": "MTR/8:00/E104"
+    },
+    {
+        "CID": "CHEM225L-51",
+        "CRN": "1307",
+        "Name": "Analytical Chemistry I Lab",
+        "Prof": "morris",
+        "Hours": "1",
+        "Enrl": "16",
+        "Cap": "16",
+        "Time": "R/2:00-4:50/J305"
+    },
+    {
+        "CID": "CHEM225L-52",
+        "CRN": "1308",
+        "Name": "Analytical Chemistry I Lab",
+        "Prof": "morris",
+        "Hours": "1",
+        "Enrl": "16",
+        "Cap": "16",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "CHEM225L-53",
+        "CRN": "1618",
+        "Name": "Analytical Chemistry I Lab",
+        "Prof": "morris",
+        "Hours": "1",
+        "Enrl": "3",
+        "Cap": "10",
+        "Time": "M/2:00-4:50/J305"
+    },
+    {
+        "CID": "CHEM251-01",
+        "CRN": "1309",
+        "Name": "Organic Chemistry I",
+        "Prof": "pfluege1",
+        "Hours": "3",
+        "Enrl": "17",
+        "Cap": "16",
+        "Time": "MTR/8:00/M115"
+    },
+    {
+        "CID": "CHEM251-02",
+        "CRN": "1310",
+        "Name": "Organic Chemistry I",
+        "Prof": "pfluege1",
+        "Hours": "3",
+        "Enrl": "20",
+        "Cap": "16",
+        "Time": "MTR/1:00/O205"
+    },
+    {
+        "CID": "CHEM251L-51",
+        "CRN": "1312",
+        "Name": "Organic Chemistry I Lab",
+        "Prof": "devasher",
+        "Hours": "1",
+        "Enrl": "19",
+        "Cap": "16",
+        "Time": "T/2:00-4:50/J306"
+    },
+    {
+        "CID": "CHEM251L-52",
+        "CRN": "1314",
+        "Name": "Organic Chemistry I Lab",
+        "Prof": "pfluege1",
+        "Hours": "1",
+        "Enrl": "18",
+        "Cap": "16",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "CHEM270-01",
+        "CRN": "1316",
+        "Name": "Energetic Chemistry",
+        "Prof": "brandt",
+        "Hours": "2",
+        "Enrl": "15",
+        "Cap": "20",
+        "Time": "TR/10:00/J300A"
+    },
+    {
+        "CID": "CHEM290-01",
+        "CRN": "1473",
+        "Name": "Chemical Research",
+        "Prof": "tba",
+        "Hours": "0TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "CHEM330-01",
+        "CRN": "1318",
+        "Name": "Biochemistry I",
+        "Prof": "brandt",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "32",
+        "Time": "MTRF/12:00/O203-1"
+    },
+    {
+        "CID": "CHEM361-01",
+        "CRN": "1320",
+        "Name": "Physical Chemistry I",
+        "Prof": "tilstra",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "16",
+        "Time": "MTRF/9:00/O203-2"
+    },
+    {
+        "CID": "CHEM395-01",
+        "CRN": "1323",
+        "Name": "Chemistry Seminar",
+        "Prof": "weatherm",
+        "Hours": "0",
+        "Enrl": "12",
+        "Cap": "16",
+        "Time": "W/11:00/TBA"
+    },
+    {
+        "CID": "CHEM428-01",
+        "CRN": "1472",
+        "Name": "Trace Metal Detection",
+        "Prof": "kamasah",
+        "Hours": "1",
+        "Enrl": "4",
+        "Cap": "16",
+        "Time": "W/10:00/TBA"
+    },
+    {
+        "CID": "CHEM441-01",
+        "CRN": "1327",
+        "Name": "Inorganic Chemistry I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "22",
+        "Time": "MTRF/12:00/B106"
+    },
+    {
+        "CID": "CHEM490-01",
+        "CRN": "1328",
+        "Name": "Chemical Research",
+        "Prof": "devasher&tuley&kamasah",
+        "Hours": "2",
+        "Enrl": "12",
+        "Cap": "16",
+        "Time": "M/2:00/J300A; W/1:00-4:50/J304"
+    },
+    {
+        "CID": "CHEM495-01",
+        "CRN": "1330",
+        "Name": "Chemistry Seminar",
+        "Prof": "weatherm",
+        "Hours": "0",
+        "Enrl": "6",
+        "Cap": "16",
+        "Time": "W/11:00/TBA"
+    },
+    {
+        "CID": "CHEM499-01",
+        "CRN": "1474",
+        "Name": "Independent Chemical Research",
+        "Prof": "pfluege1",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CHEM570-01",
+        "CRN": "1331",
+        "Name": "Molecular Spectroscopy",
+        "Prof": "sunahori",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "16",
+        "Time": "MTRF/11:00/J202"
+    },
+    {
+        "CID": "CSSE120-01",
+        "CRN": "1098",
+        "Name": "Intro to Software Development",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "24",
+        "Time": "TWF/8:00-9:50/O269"
+    },
+    {
+        "CID": "CSSE120-02",
+        "CRN": "1099",
+        "Name": "Intro to Software Development",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "TWF/10:00-11:50/O269"
+    },
+    {
+        "CID": "CSSE120-03",
+        "CRN": "1100",
+        "Name": "Intro to Software Development",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "24",
+        "Time": "TWF/1:00-2:50/O269"
+    },
+    {
+        "CID": "CSSE120-04",
+        "CRN": "1101",
+        "Name": "Intro to Software Development",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "TWF/3:00-4:50/O269"
+    },
+    {
+        "CID": "CSSE132-01",
+        "CRN": "1102",
+        "Name": "Intro to Systems Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "0",
+        "Time": "MTR/9:00/O259; W/9:00-11:50/O259"
+    },
+    {
+        "CID": "CSSE132-02",
+        "CRN": "1103",
+        "Name": "Intro to Systems Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "MTR/1:00/O259; W/1:00-3:50/O259"
+    },
+    {
+        "CID": "CSSE140-01",
+        "CRN": "1104",
+        "Name": "Practical Security I",
+        "Prof": "stammsl",
+        "Hours": "1",
+        "Enrl": "22",
+        "Cap": "25",
+        "Time": "R/4:00/O157"
+    },
+    {
+        "CID": "CSSE140-02",
+        "CRN": "1587",
+        "Name": "Practical Security I",
+        "Prof": "stammsl",
+        "Hours": "1",
+        "Enrl": "6",
+        "Cap": "25",
+        "Time": "R/4:00/O159"
+    },
+    {
+        "CID": "CSSE220-01",
+        "CRN": "1105",
+        "Name": "Object-Oriented Software Dvlpm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "MTR/8:00-9:50/O267"
+    },
+    {
+        "CID": "CSSE220-02",
+        "CRN": "1106",
+        "Name": "Object-Oriented Software Dvlpm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "0",
+        "Time": "MTR/10:00-11:50/O267"
+    },
+    {
+        "CID": "CSSE220-03",
+        "CRN": "1107",
+        "Name": "Object-Oriented Software Dvlpm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "MTR/1:00-2:50/M115"
+    },
+    {
+        "CID": "CSSE220-04",
+        "CRN": "1108",
+        "Name": "Object-Oriented Software Dvlpm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "0",
+        "Time": "MTR/3:00-4:50/O267"
+    },
+    {
+        "CID": "CSSE220-05",
+        "CRN": "1163",
+        "Name": "Object-Oriented Software Dvlpm",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTR/3:00-4:50/O259"
+    },
+    {
+        "CID": "CSSE230-01",
+        "CRN": "1109",
+        "Name": "Data Struct & Algorithm Anlys",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "0",
+        "Time": "M/8:00-9:50/O269; WF/8:00-9:50/O267"
+    },
+    {
+        "CID": "CSSE230-02",
+        "CRN": "1110",
+        "Name": "Data Struct & Algorithm Anlys",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "M/10:00-11:50/O269; WF/10:00-11:50/O267"
+    },
+    {
+        "CID": "CSSE230-03",
+        "CRN": "1111",
+        "Name": "Data Struct & Algorithm Anlys",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "M/1:00-2:50/O269; WF/1:00-2:50/O267"
+    },
+    {
+        "CID": "CSSE232-01",
+        "CRN": "1112",
+        "Name": "Computer Architecture I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/9:00/O257; W/8:00-9:50/O257"
+    },
+    {
+        "CID": "CSSE232-02",
+        "CRN": "1113",
+        "Name": "Computer Architecture I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/10:00/O257; W/10:00-11:50/O257"
+    },
+    {
+        "CID": "CSSE232-03",
+        "CRN": "1114",
+        "Name": "Computer Architecture I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/2:00/O257; W/1:00-2:50/O257"
+    },
+    {
+        "CID": "CSSE232-04",
+        "CRN": "1115",
+        "Name": "Computer Architecture I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/3:00/O257; W/3:00-4:50/O257"
+    },
+    {
+        "CID": "CSSE280-01",
+        "CRN": "1258",
+        "Name": "Intro to Web Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "TRF/1:00-2:50/O157"
+    },
+    {
+        "CID": "CSSE280-OL1",
+        "CRN": "1117",
+        "Name": "Intro to Web Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "TRF/9:00-10:50/ONLINE"
+    },
+    {
+        "CID": "CSSE280-OL2",
+        "CRN": "1118",
+        "Name": "Intro to Web Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "24",
+        "Time": "TRF/11:00-12:50/ONLINE"
+    },
+    {
+        "CID": "CSSE290-01",
+        "CRN": "1119",
+        "Name": "Practical Security III",
+        "Prof": "henthor1",
+        "Hours": "2",
+        "Enrl": "4",
+        "Cap": "24",
+        "Time": "MR/2:00/O231"
+    },
+    {
+        "CID": "CSSE290-02",
+        "CRN": "1120",
+        "Name": "Competitive Programming I",
+        "Prof": "krohn",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "W/10:00-11:50/O201"
+    },
+    {
+        "CID": "CSSE290-03",
+        "CRN": "1121",
+        "Name": "Research Lab I",
+        "Prof": "yoder1",
+        "Hours": "1",
+        "Enrl": "2",
+        "Cap": "20",
+        "Time": "T/12:00/O231"
+    },
+    {
+        "CID": "CSSE290-04",
+        "CRN": "1160",
+        "Name": "Programming in the Community",
+        "Prof": "fisherds",
+        "Hours": "2",
+        "Enrl": "9",
+        "Cap": "9",
+        "Time": "W/11:00/TBA"
+    },
+    {
+        "CID": "CSSE290-07",
+        "CRN": "1259",
+        "Name": "Programming in the Community",
+        "Prof": "fisherds",
+        "Hours": "1",
+        "Enrl": "11",
+        "Cap": "12",
+        "Time": "W/11:00/TBA"
+    },
+    {
+        "CID": "CSSE290-08",
+        "CRN": "1260",
+        "Name": "Effective Java",
+        "Prof": "zhang1",
+        "Hours": "2",
+        "Enrl": "9",
+        "Cap": "24",
+        "Time": "MW/2:00/O167"
+    },
+    {
+        "CID": "CSSE304-01",
+        "CRN": "1122",
+        "Name": "Programming Language Concepts",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/9:00/O159"
+    },
+    {
+        "CID": "CSSE304-02",
+        "CRN": "1123",
+        "Name": "Programming Language Concepts",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/10:00/O159"
+    },
+    {
+        "CID": "CSSE304-03",
+        "CRN": "1124",
+        "Name": "Programming Language Concepts",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O167"
+    },
+    {
+        "CID": "CSSE304-04",
+        "CRN": "1261",
+        "Name": "Programming Language Concepts",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/1:00/O167"
+    },
+    {
+        "CID": "CSSE371-01",
+        "CRN": "1127",
+        "Name": "Software Requrmnts Engineering",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MWF/8:00-9:50/O203-1"
+    },
+    {
+        "CID": "CSSE371-02",
+        "CRN": "1128",
+        "Name": "Software Requrmnts Engineering",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MWF/10:00-11:50/O203-1"
+    },
+    {
+        "CID": "CSSE371-03",
+        "CRN": "1129",
+        "Name": "Software Requrmnts Engineering",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "24",
+        "Time": "MWF/1:00-2:50/O203-1"
+    },
+    {
+        "CID": "CSSE371-04",
+        "CRN": "1130",
+        "Name": "Software Requrmnts Engineering",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MWF/3:00-4:50/O159"
+    },
+    {
+        "CID": "CSSE372-01",
+        "CRN": "1132",
+        "Name": "Software Project Management",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "24",
+        "Time": "TR/10:00-11:50/O203-1"
+    },
+    {
+        "CID": "CSSE372-02",
+        "CRN": "1133",
+        "Name": "Software Project Management",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "TR/1:00-2:50/O159"
+    },
+    {
+        "CID": "CSSE374-01",
+        "CRN": "1262",
+        "Name": "Software Design",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "24",
+        "Time": "MWR/8:00-9:50/O157"
+    },
+    {
+        "CID": "CSSE374-02",
+        "CRN": "1263",
+        "Name": "Software Design",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "24",
+        "Time": "MWR/10:00-11:50/O157"
+    },
+    {
+        "CID": "CSSE386-01",
+        "CRN": "1134",
+        "Name": "Data Mining w/ Programming",
+        "Prof": "scrivner",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O257"
+    },
+    {
+        "CID": "CSSE433-01",
+        "CRN": "1138",
+        "Name": "Advanced Database Systems",
+        "Prof": "mohan",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "MTRF/10:00/O259"
+    },
+    {
+        "CID": "CSSE477-01",
+        "CRN": "1139",
+        "Name": "Software Architecture",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "24",
+        "Time": "MTWR/9:00/O169"
+    },
+    {
+        "CID": "CSSE477-02",
+        "CRN": "1140",
+        "Name": "Software Architecture",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWR/10:00/O169"
+    },
+    {
+        "CID": "CSSE480-01",
+        "CRN": "1592",
+        "Name": "Cross-Platform Development",
+        "Prof": "fisherds",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/1:00/O101"
+    },
+    {
+        "CID": "CSSE487-01",
+        "CRN": "1141",
+        "Name": "Senior Research Project I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "T/12:00/O231"
+    },
+    {
+        "CID": "CSSE490-01",
+        "CRN": "1142",
+        "Name": "Deep Reinforcement Learning",
+        "Prof": "song3",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "12",
+        "Time": "MTRF/2:00/O259"
+    },
+    {
+        "CID": "CSSE490-02",
+        "CRN": "1143",
+        "Name": "Bio Inspired Artificial Intell",
+        "Prof": "yoder1",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MT/3:00/O169; R/3:00-4:50/O169"
+    },
+    {
+        "CID": "CSSE490-03",
+        "CRN": "1144",
+        "Name": "Deep Learning",
+        "Prof": "boutell",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O169"
+    },
+    {
+        "CID": "CSSE490-04",
+        "CRN": "1590",
+        "Name": "Deep Learning",
+        "Prof": "shibberu",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "25",
+        "Time": "MTRF/10:00/G317"
+    },
+    {
+        "CID": "CSSE494-01",
+        "CRN": "1145",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-02",
+        "CRN": "1146",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-03",
+        "CRN": "1147",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-04",
+        "CRN": "1148",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-05",
+        "CRN": "1149",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-06",
+        "CRN": "1150",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-07",
+        "CRN": "1151",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "2",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE494-08",
+        "CRN": "1152",
+        "Name": "Senior Thesis I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE496-01",
+        "CRN": "1164",
+        "Name": "Senior Thesis III",
+        "Prof": "scrivner",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE497-01",
+        "CRN": "1155",
+        "Name": "Senior Capstone Project I",
+        "Prof": "tracy",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "W/1:00-4:50/TBA"
+    },
+    {
+        "CID": "CSSE497-02",
+        "CRN": "1156",
+        "Name": "Senior Capstone Project I",
+        "Prof": "liou",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "W/1:00-4:50/TBA"
+    },
+    {
+        "CID": "CSSE497-03",
+        "CRN": "1157",
+        "Name": "Senior Capstone Project I",
+        "Prof": "hays",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "0",
+        "Time": "W/1:00-2:50/TBA; W/4:00/TBA; W/3:00/B111"
+    },
+    {
+        "CID": "CSSE497-04",
+        "CRN": "1158",
+        "Name": "Senior Capstone Project I",
+        "Prof": "hollings",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "0",
+        "Time": "W/1:00-2:50/TBA; W/4:00/TBA; W/3:00/B111"
+    },
+    {
+        "CID": "ECE160-01",
+        "CRN": "1351",
+        "Name": "Engineering Practice",
+        "Prof": "miller4",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "25",
+        "Time": "MR/10:00-11:50/TBA"
+    },
+    {
+        "CID": "ECE160-02",
+        "CRN": "1352",
+        "Name": "Engineering Practice",
+        "Prof": "simoni",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "TF/10:00-11:50/M103"
+    },
+    {
+        "CID": "ECE160-03",
+        "CRN": "1353",
+        "Name": "Engineering Practice",
+        "Prof": "walter",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MR/10:00-11:50/TBA"
+    },
+    {
+        "CID": "ECE180-01",
+        "CRN": "1354",
+        "Name": "Intro to Signal Processing",
+        "Prof": "cracraft",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "25",
+        "Time": "MRF/11:00/D115; W/11:00-1:50/D115"
+    },
+    {
+        "CID": "ECE180-02",
+        "CRN": "1355",
+        "Name": "Intro to Signal Processing",
+        "Prof": "kim2",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "25",
+        "Time": "MRF/12:00/D115; T/11:00-1:50/D115"
+    },
+    {
+        "CID": "ECE203-01",
+        "CRN": "1356",
+        "Name": "DC Circuits",
+        "Prof": "herniter",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "25",
+        "Time": "MRF/3:00/C115; W/2:00-4:50/C115"
+    },
+    {
+        "CID": "ECE204-01",
+        "CRN": "1357",
+        "Name": "AC Circuits",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "22",
+        "Time": "MRF/9:00/D114; T/8:00-10:50/D114"
+    },
+    {
+        "CID": "ECE204-02",
+        "CRN": "1358",
+        "Name": "AC Circuits",
+        "Prof": "berry123",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "22",
+        "Time": "MRF/10:00/D114; W/8:00-10:50/D114"
+    },
+    {
+        "CID": "ECE204-03",
+        "CRN": "1359",
+        "Name": "AC Circuits",
+        "Prof": "berry123",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "22",
+        "Time": "MRF/11:00/D114; W/11:00-1:50/D114"
+    },
+    {
+        "CID": "ECE204-04",
+        "CRN": "1360",
+        "Name": "AC Circuits",
+        "Prof": "rostamko",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MRF/12:00/D114; T/11:00-1:50/D114"
+    },
+    {
+        "CID": "ECE233-01",
+        "CRN": "1361",
+        "Name": "Introduction to Digital System",
+        "Prof": "estrada",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "26",
+        "Time": "MRF/9:00/D115; T/8:00-10:50/D115"
+    },
+    {
+        "CID": "ECE233-02",
+        "CRN": "1362",
+        "Name": "Introduction to Digital System",
+        "Prof": "estrada",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "26",
+        "Time": "MRF/10:00/D115; W/8:00-10:50/D115"
+    },
+    {
+        "CID": "ECE233-03",
+        "CRN": "1363",
+        "Name": "Introduction to Digital System",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "26",
+        "Time": "MRF/11:00/C115; W/11:00-1:50/C115"
+    },
+    {
+        "CID": "ECE233-04",
+        "CRN": "1585",
+        "Name": "Introduction to Digital System",
+        "Prof": "shoushan",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "26",
+        "Time": "MRF/12:00/C115; T/11:00-1:50/C115"
+    },
+    {
+        "CID": "ECE250-01",
+        "CRN": "1364",
+        "Name": "Electronic Device Modeling",
+        "Prof": "herniter",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "25",
+        "Time": "MRF/1:00/D114; W/11:00-1:50/B200"
+    },
+    {
+        "CID": "ECE300-01",
+        "CRN": "1365",
+        "Name": "Continuous-Time Signals & Syst",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "25",
+        "Time": "MRF/2:00/D114; W/2:00-4:50/B200"
+    },
+    {
+        "CID": "ECE312-01",
+        "CRN": "1366",
+        "Name": "Communication Networks",
+        "Prof": "yoder",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/1:00/M107"
+    },
+    {
+        "CID": "ECE312-02",
+        "CRN": "1367",
+        "Name": "Communication Networks",
+        "Prof": "miller4",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "22",
+        "Time": "MTRF/2:00/M107"
+    },
+    {
+        "CID": "ECE340-01",
+        "CRN": "1368",
+        "Name": "Electromagnetic Fields",
+        "Prof": "wheeler",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/9:00/TBA"
+    },
+    {
+        "CID": "ECE351-01",
+        "CRN": "1369",
+        "Name": "Analog Electronics",
+        "Prof": "hudson",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MRF/1:00/D115; T/11:00-1:50/B200"
+    },
+    {
+        "CID": "ECE380-01",
+        "CRN": "1370",
+        "Name": "Discrete-Time Signals & Syst",
+        "Prof": "doering",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "25",
+        "Time": "MTRF/9:00/C115"
+    },
+    {
+        "CID": "ECE380-02",
+        "CRN": "1371",
+        "Name": "Discrete-Time Signals & Syst",
+        "Prof": "doering",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/10:00/C115"
+    },
+    {
+        "CID": "ECE398-01",
+        "CRN": "1604",
+        "Name": "SEPIC converter",
+        "Prof": "herniter",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "ECE433-01",
+        "CRN": "1373",
+        "Name": "Adv DigitalSysDesn wVerilogHDL",
+        "Prof": "song",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "25",
+        "Time": "MRF/2:00/D115; T/2:00-4:50/D115"
+    },
+    {
+        "CID": "ECE452-01",
+        "CRN": "1374",
+        "Name": "Power Electronics",
+        "Prof": "rostamko",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "25",
+        "Time": "MRF/3:00/D114; W/2:00-4:50/D114"
+    },
+    {
+        "CID": "ECE460-01",
+        "CRN": "1375",
+        "Name": "Senior Design",
+        "Prof": "simoni",
+        "Hours": "3",
+        "Enrl": "3",
+        "Cap": "0",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE460-02",
+        "CRN": "1376",
+        "Name": "Senior Design",
+        "Prof": "song",
+        "Hours": "3",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE460-03",
+        "CRN": "1377",
+        "Name": "Senior Design",
+        "Prof": "walter",
+        "Hours": "3",
+        "Enrl": "1",
+        "Cap": "0",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE460-04",
+        "CRN": "1378",
+        "Name": "Engineering Design I",
+        "Prof": "yoder",
+        "Hours": "3",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE460-CPE",
+        "CRN": "1379",
+        "Name": "Senior Design I",
+        "Prof": "simoni",
+        "Hours": "3",
+        "Enrl": "21",
+        "Cap": "75",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE460-EE",
+        "CRN": "1380",
+        "Name": "Senior Design I",
+        "Prof": "simoni",
+        "Hours": "3",
+        "Enrl": "28",
+        "Cap": "75",
+        "Time": "W/2:00-4:50/E104"
+    },
+    {
+        "CID": "ECE470-01",
+        "CRN": "1381",
+        "Name": "Power Systems I",
+        "Prof": "rostamko",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "25",
+        "Time": "MRF/4:00/D114; T/2:00-4:50/D114"
+    },
+    {
+        "CID": "ECE498-01",
+        "CRN": "1609",
+        "Name": "Open Source Robotics Research",
+        "Prof": "berry123",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "ECE541-01",
+        "CRN": "1586",
+        "Name": "Microwave/Millimeter-Wave Engr",
+        "Prof": "wheeler",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "25",
+        "Time": "MTRF/12:00/O205"
+    },
+    {
+        "CID": "ECE597-01",
+        "CRN": "1382",
+        "Name": "Information Theory and Coding",
+        "Prof": "kim2",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "25",
+        "Time": "MTRF/10:00/TBA"
+    },
+    {
+        "CID": "ECONS151-01",
+        "CRN": "1538",
+        "Name": "Introduction to Microeconomics",
+        "Prof": "pavel",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTRF/8:00/M107"
+    },
+    {
+        "CID": "ECONS151-02",
+        "CRN": "1539",
+        "Name": "Introduction to Microeconomics",
+        "Prof": "pavel",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "MTRF/9:00/M107"
+    },
+    {
+        "CID": "ECONS152-01",
+        "CRN": "1540",
+        "Name": "Introduction to Macroeconomics",
+        "Prof": "kim1",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "25",
+        "Time": "MTRF/11:00/O103"
+    },
+    {
+        "CID": "ECONS152-02",
+        "CRN": "1541",
+        "Name": "Introduction to Macroeconomics",
+        "Prof": "kim1",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "25",
+        "Time": "MTRF/12:00/O103"
+    },
+    {
+        "CID": "ECONS355-01",
+        "CRN": "1542",
+        "Name": "International Finance",
+        "Prof": "kim1",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "25",
+        "Time": "MTRF/3:00/J202"
+    },
+    {
+        "CID": "ECONS499-01",
+        "CRN": "1611",
+        "Name": "Directed Study",
+        "Prof": "kim1",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "EM103-01",
+        "CRN": "1232",
+        "Name": "Introduction to Design-CHE maj",
+        "Prof": "neumann",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MR/11:00/O100A"
+    },
+    {
+        "CID": "EM104-01",
+        "CRN": "1452",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "M/2:00-4:50/KIC158"
+    },
+    {
+        "CID": "EM104-02",
+        "CRN": "1453",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "6",
+        "Cap": "24",
+        "Time": "T/2:00-4:50/KIC158"
+    },
+    {
+        "CID": "EM104-03",
+        "CRN": "1454",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "EM104-04",
+        "CRN": "1455",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "F/2:00-4:50/KIC158"
+    },
+    {
+        "CID": "EM104-05",
+        "CRN": "1456",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "M/8:00-10:50/D101"
+    },
+    {
+        "CID": "EM104-06",
+        "CRN": "1457",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "T/8:00-10:50/D101"
+    },
+    {
+        "CID": "EM104-07",
+        "CRN": "1458",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "R/8:00-10:50/D101"
+    },
+    {
+        "CID": "EM104-08",
+        "CRN": "1459",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "M/2:00-4:50/O101"
+    },
+    {
+        "CID": "EM104-09",
+        "CRN": "1460",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "EM104-10",
+        "CRN": "1461",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "EM104-11",
+        "CRN": "1462",
+        "Name": "Graphical Communications",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "F/8:00-10:50/D101"
+    },
+    {
+        "CID": "EM121-01",
+        "CRN": "1527",
+        "Name": "Statics & Mechanics of Matls I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "30",
+        "Time": "MTRF/1:00/O105"
+    },
+    {
+        "CID": "EM121-02",
+        "CRN": "1528",
+        "Name": "Statics & Mechanics of Matls I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "30",
+        "Time": "MTRF/2:00/O105"
+    },
+    {
+        "CID": "EM202-01",
+        "CRN": "1214",
+        "Name": "Dynamics",
+        "Prof": "collins2",
+        "Hours": "4",
+        "Enrl": "29",
+        "Cap": "30",
+        "Time": "MTRF/12:00/O113"
+    },
+    {
+        "CID": "EM204-01",
+        "CRN": "1396",
+        "Name": "Statics & Mechanics of Mtls II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/9:00/O229"
+    },
+    {
+        "CID": "EM204-02",
+        "CRN": "1397",
+        "Name": "Statics & Mechanics of Mtls II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/10:00/O229"
+    },
+    {
+        "CID": "EM204-03",
+        "CRN": "1398",
+        "Name": "Statics & Mechanics of Mtls II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "22",
+        "Time": "MTRF/9:00/TBA"
+    },
+    {
+        "CID": "EM204-04",
+        "CRN": "1399",
+        "Name": "Statics, Mech Mtls II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/10:00/TBA"
+    },
+    {
+        "CID": "EM204-05",
+        "CRN": "1438",
+        "Name": "Statics & Mechanics of Mtls II",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/2:00/O169"
+    },
+    {
+        "CID": "EM402-01",
+        "CRN": "1400",
+        "Name": "Three-Dimensional Dynamics",
+        "Prof": "jones5",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "30",
+        "Time": "MTRF/2:00/D101"
+    },
+    {
+        "CID": "EM406-01",
+        "CRN": "1463",
+        "Name": "Vibration Analysis",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "30",
+        "Time": "MTR/8:00/O105; R/11:00-1:50/C116"
+    },
+    {
+        "CID": "EM406-02",
+        "CRN": "1464",
+        "Name": "Vibration Analysis",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "30",
+        "Time": "MTR/9:00/TBA; F/11:00-1:50/C116"
+    },
+    {
+        "CID": "EMGT100-01",
+        "CRN": "1172",
+        "Name": "Intro to Entrepreneurship",
+        "Prof": "james3",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/9:00/M111"
+    },
+    {
+        "CID": "EMGT100-02",
+        "CRN": "1173",
+        "Name": "Intro to Entrepreneurship",
+        "Prof": "james3",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/10:00/M111"
+    },
+    {
+        "CID": "EMGT445-01",
+        "CRN": "1174",
+        "Name": "Quality Methods",
+        "Prof": "evans",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "MTRF/11:00/M115"
+    },
+    {
+        "CID": "EMGT445-02",
+        "CRN": "1175",
+        "Name": "Quality Methods",
+        "Prof": "evans",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "24",
+        "Time": "MTRF/12:00/M115"
+    },
+    {
+        "CID": "EMGT472-01",
+        "CRN": "1176",
+        "Name": "Reliability Engineering",
+        "Prof": "evans",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "22",
+        "Time": "MTRF/3:00/B106"
+    },
+    {
+        "CID": "EMGT511-01",
+        "CRN": "1177",
+        "Name": "Graduate Seminar I",
+        "Prof": "downing",
+        "Hours": "1",
+        "Enrl": "29",
+        "Cap": "25",
+        "Time": "TBA"
+    },
+    {
+        "CID": "EMGT523-01",
+        "CRN": "1178",
+        "Name": "Marketing in New Prod Develpmt",
+        "Prof": "downing",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/11:00/M111"
+    },
+    {
+        "CID": "EMGT524-01",
+        "CRN": "1179",
+        "Name": "Operations Mgmt",
+        "Prof": "lamb1",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT532-OL1",
+        "CRN": "1180",
+        "Name": "Technical Entrepreneurship",
+        "Prof": "james3",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/2:00/ONLINE"
+    },
+    {
+        "CID": "EMGT540-OL1",
+        "CRN": "1181",
+        "Name": "Human Factors",
+        "Prof": "momenipo",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT551-01",
+        "CRN": "1183",
+        "Name": "Intellectl Prop for Engr & Sci",
+        "Prof": "stamper1",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "MTRF/11:00/M107"
+    },
+    {
+        "CID": "EMGT562-OL1",
+        "CRN": "1184",
+        "Name": "Risk Analysis and Management",
+        "Prof": "andrijci",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT562-OL2",
+        "CRN": "1628",
+        "Name": "Risk Analysis and Management",
+        "Prof": "andrijci",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT567-01",
+        "CRN": "1185",
+        "Name": "Economic Anlsys of Eng Project",
+        "Prof": "andrijci",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "24",
+        "Time": "MTRF/1:00/M111"
+    },
+    {
+        "CID": "EMGT583-01",
+        "CRN": "1186",
+        "Name": "Management Info Systems",
+        "Prof": "momenipo",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "24",
+        "Time": "MTRF/3:00/M111"
+    },
+    {
+        "CID": "EMGT597-01",
+        "CRN": "1627",
+        "Name": "Integrated Research Project",
+        "Prof": "momenipo",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "EMGT598-01",
+        "CRN": "1637",
+        "Name": "AI & Fashion",
+        "Prof": "downing",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "ENGD260-01",
+        "CRN": "1583",
+        "Name": "Product Design Studio",
+        "Prof": "tba",
+        "Hours": "6",
+        "Enrl": "17",
+        "Cap": "24",
+        "Time": "MTRF/1:00-4:50/J102"
+    },
+    {
+        "CID": "ENGD301-OL1",
+        "CRN": "1584",
+        "Name": "Creative Design",
+        "Prof": "brackin",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGD302-01",
+        "CRN": "1182",
+        "Name": "Human Factors",
+        "Prof": "momenipo",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGLH243-01",
+        "CRN": "1543",
+        "Name": "Survey of American Literature",
+        "Prof": "carvill",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/3:00/J204"
+    },
+    {
+        "CID": "ENGLH331-01",
+        "CRN": "1544",
+        "Name": "Irish Drama",
+        "Prof": "hartnett",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTRF/12:00/M107"
+    },
+    {
+        "CID": "ENGLH338-01",
+        "CRN": "1545",
+        "Name": "Banned in the USA",
+        "Prof": "taylor13",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "25",
+        "Time": "MTRF/3:00/J208"
+    },
+    {
+        "CID": "ENGLH338-02",
+        "CRN": "1546",
+        "Name": "Banned in the USA",
+        "Prof": "taylor13",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "25",
+        "Time": "MTRF/4:00/J208"
+    },
+    {
+        "CID": "ENGLH469-01",
+        "CRN": "1547",
+        "Name": "Contemp British Fiction & Film",
+        "Prof": "dyer1",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "TF/12:00/M137"
+    },
+    {
+        "CID": "EP290-01",
+        "CRN": "1342",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "EP407-01",
+        "CRN": "1343",
+        "Name": "Semi Fabrication and Char.",
+        "Prof": "marince1",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "12",
+        "Time": "TF/12:00/G221; MR/12:00-2:50/M138"
+    },
+    {
+        "CID": "EP411-01",
+        "CRN": "1345",
+        "Name": "Advanced Topics in MEMS",
+        "Prof": "siahmako",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "10",
+        "Time": "MTR/4:00/TBA; TBA/TBA/M138"
+    },
+    {
+        "CID": "EP416-01",
+        "CRN": "1347",
+        "Name": "Engr Physics Projects II",
+        "Prof": "pfiester&reza",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "20",
+        "Time": "MR/3:00/TBA; TF/1:00-3:50/BL112"
+    },
+    {
+        "CID": "EP470-01",
+        "CRN": "1348",
+        "Name": "Nanoscale Comp Material Sci",
+        "Prof": "hashemi",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "TBA"
+    },
+    {
+        "CID": "EP470-02",
+        "CRN": "1349",
+        "Name": "Lithographic Mthds in Printing",
+        "Prof": "wagner",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MR/11:00/M103"
+    },
+    {
+        "CID": "EP490-01",
+        "CRN": "1350",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "EP507-01",
+        "CRN": "1344",
+        "Name": "Semi Fabrication and Char.",
+        "Prof": "marince1",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "2",
+        "Time": "TF/12:00/G221; MR/12:00-2:50/M138"
+    },
+    {
+        "CID": "EP511-01",
+        "CRN": "1346",
+        "Name": "Advanced Topics in MEMS",
+        "Prof": "siahmako",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "2",
+        "Time": "MTR/4:00/TBA; TBA/TBA/M138"
+    },
+    {
+        "CID": "ES201-01",
+        "CRN": "1465",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/10:00/O105"
+    },
+    {
+        "CID": "ES201-02",
+        "CRN": "1466",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/10:00/O203-2"
+    },
+    {
+        "CID": "ES201-03",
+        "CRN": "1467",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "25",
+        "Time": "MTRF/10:00/KIC159"
+    },
+    {
+        "CID": "ES201-04",
+        "CRN": "1468",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/11:00/KIC159"
+    },
+    {
+        "CID": "ES201-05",
+        "CRN": "1469",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "25",
+        "Time": "MTRF/10:00/O101"
+    },
+    {
+        "CID": "ES201-06",
+        "CRN": "1470",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/11:00/O101"
+    },
+    {
+        "CID": "ES201-07",
+        "CRN": "1471",
+        "Name": "Conservation & Acct Princ",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "25",
+        "Time": "MTRF/11:00/O203-2"
+    },
+    {
+        "CID": "ES205-01",
+        "CRN": "1401",
+        "Name": "Analysis & Design of Engr Syst",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "30",
+        "Time": "MTF/9:00/TBA; R/8:00-10:50/C116"
+    },
+    {
+        "CID": "ES205-02",
+        "CRN": "1402",
+        "Name": "Analysis & Design of Engr Syst",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "18",
+        "Cap": "30",
+        "Time": "MTR/9:00/TBA; W/8:00-10:50/C116"
+    },
+    {
+        "CID": "ES205-03",
+        "CRN": "1403",
+        "Name": "Analysis & Design of Engr Syst",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "30",
+        "Time": "MTR/10:00/TBA; W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "ES213-01",
+        "CRN": "1383",
+        "Name": "Electrical Systems",
+        "Prof": "tba",
+        "Hours": "3",
+        "Enrl": "28",
+        "Cap": "28",
+        "Time": "MRF/3:00/O105"
+    },
+    {
+        "CID": "ES213-02",
+        "CRN": "1384",
+        "Name": "Electrical Systems",
+        "Prof": "cracraft",
+        "Hours": "3",
+        "Enrl": "28",
+        "Cap": "28",
+        "Time": "MRF/1:00/C115"
+    },
+    {
+        "CID": "ES213-03",
+        "CRN": "1385",
+        "Name": "Electrical Systems",
+        "Prof": "tba",
+        "Hours": "3",
+        "Enrl": "29",
+        "Cap": "28",
+        "Time": "MRF/2:00/C115"
+    },
+    {
+        "CID": "ES213-04",
+        "CRN": "1386",
+        "Name": "Electrical Systems",
+        "Prof": "tba",
+        "Hours": "3",
+        "Enrl": "28",
+        "Cap": "28",
+        "Time": "MRF/3:00/D115"
+    },
+    {
+        "CID": "ES213-05",
+        "CRN": "1387",
+        "Name": "Electrical Systems",
+        "Prof": "tba",
+        "Hours": "3",
+        "Enrl": "14",
+        "Cap": "28",
+        "Time": "MRF/4:00/D115"
+    },
+    {
+        "CID": "ES213L-01",
+        "CRN": "1388",
+        "Name": "Electrical Systems Lab",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "29",
+        "Cap": "28",
+        "Time": "W/11:00-1:50/TBA"
+    },
+    {
+        "CID": "ES213L-02",
+        "CRN": "1389",
+        "Name": "Electrical Systems Lab",
+        "Prof": "cracraft",
+        "Hours": "1",
+        "Enrl": "28",
+        "Cap": "28",
+        "Time": "W/2:00-4:50/TBA"
+    },
+    {
+        "CID": "ES213L-03",
+        "CRN": "1390",
+        "Name": "Electrical Systems Lab",
+        "Prof": "shoushan",
+        "Hours": "1",
+        "Enrl": "12",
+        "Cap": "28",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "ES213L-04",
+        "CRN": "1391",
+        "Name": "Electrical Systems Lab",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "22",
+        "Cap": "28",
+        "Time": "W/8:00-10:50/C115"
+    },
+    {
+        "CID": "ES213L-05",
+        "CRN": "1392",
+        "Name": "Electrical Systems Lab",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "27",
+        "Cap": "28",
+        "Time": "W/2:00-4:50/D115"
+    },
+    {
+        "CID": "ESL101-01",
+        "CRN": "1582",
+        "Name": "Reading and Writing 1",
+        "Prof": "hurdlik",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": "TR/2:00/B106; W/11:00-12:50/B106"
+    },
+    {
+        "CID": "GEOGS210-01",
+        "CRN": "1616",
+        "Name": "Human Geography",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/2:00/O233"
+    },
+    {
+        "CID": "GEOGS210-02",
+        "CRN": "1617",
+        "Name": "Human Geography",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "25",
+        "Time": "MTRF/3:00/O233"
+    },
+    {
+        "CID": "GERL111-01",
+        "CRN": "1550",
+        "Name": "German Language & Culture I",
+        "Prof": "michel",
+        "Hours": "4",
+        "Enrl": "18",
+        "Cap": "22",
+        "Time": "MTRF/12:00/J215"
+    },
+    {
+        "CID": "GERL111-02",
+        "CRN": "1551",
+        "Name": "German Language & Culture I",
+        "Prof": "michel",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "22",
+        "Time": "MTRF/1:00/J215"
+    },
+    {
+        "CID": "GERL211-01",
+        "CRN": "1552",
+        "Name": "German Language & Culture IV",
+        "Prof": "michel",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "22",
+        "Time": "MTRF/10:00/J215"
+    },
+    {
+        "CID": "GRAD504-00",
+        "CRN": "1004",
+        "Name": "International Studies",
+        "Prof": "tba",
+        "Hours": "6",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "GRAD505-00",
+        "CRN": "1005",
+        "Name": "Grad Enr (w/ no other courses)",
+        "Prof": "tba",
+        "Hours": "6",
+        "Enrl": "1",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "GRAD506-00",
+        "CRN": "1006",
+        "Name": "Grad Enrollment:MS Proj,Thesis",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "GRAD507-00",
+        "CRN": "1007",
+        "Name": "Grad Enrollment: Mast/Non-Thes",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "GRAD508-00",
+        "CRN": "1008",
+        "Name": "Grad Enrollment: Co-Op",
+        "Prof": "tba",
+        "Hours": "6",
+        "Enrl": "0",
+        "Cap": "15",
+        "Time": ""
+    },
+    {
+        "CID": "HISTH422-01",
+        "CRN": "1553",
+        "Name": "Industrl Revoltn in Glbl Cntxt",
+        "Prof": "martland",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "25",
+        "Time": "MTRF/4:00/J202"
+    },
+    {
+        "CID": "HUMH190-01",
+        "CRN": "1593",
+        "Name": "FY Writing Seminar-Zombies!",
+        "Prof": "house",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "5",
+        "Time": "MTRF/12:00/J204"
+    },
+    {
+        "CID": "HUMH190-02",
+        "CRN": "1594",
+        "Name": "FY Writ Sem-Hist of Epidemics",
+        "Prof": "martland",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "5",
+        "Time": "MTRF/12:00/J206"
+    },
+    {
+        "CID": "HUMH190-03",
+        "CRN": "1595",
+        "Name": "FY Writ Sem-Hist of Epidemics",
+        "Prof": "martland",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "5",
+        "Time": "MTRF/1:00/J206"
+    },
+    {
+        "CID": "HUMH190-04",
+        "CRN": "1596",
+        "Name": "FYWritSem-Read Signsof Pop Cul",
+        "Prof": "carvill",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "5",
+        "Time": "MTRF/11:00/J208"
+    },
+    {
+        "CID": "HUMH190-05",
+        "CRN": "1597",
+        "Name": "FYWritSem-Read Signsof Pop Cul",
+        "Prof": "carvill",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "5",
+        "Time": "MTRF/4:00/J204"
+    },
+    {
+        "CID": "HUMH190-06",
+        "CRN": "1598",
+        "Name": "FY Writ Sem-Humans & Machines",
+        "Prof": "hartnett",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "5",
+        "Time": "MTF/3:00/J206"
+    },
+    {
+        "CID": "HUMH190-07",
+        "CRN": "1599",
+        "Name": "FY Writ Sem-Humans & Machines",
+        "Prof": "hartnett",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "5",
+        "Time": "MTF/4:00/J206"
+    },
+    {
+        "CID": "HUMH190-08",
+        "CRN": "1600",
+        "Name": "FY Writ Sem-Writers & Writing",
+        "Prof": "williams",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "5",
+        "Time": "MTR/9:00/J208"
+    },
+    {
+        "CID": "HUMH190-09",
+        "CRN": "1601",
+        "Name": "FY Writ Sem-Writers & Writing",
+        "Prof": "williams",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "5",
+        "Time": "MTR/10:00/J208"
+    },
+    {
+        "CID": "HUMH190-10",
+        "CRN": "1602",
+        "Name": "FY Writ Sem-Tech&Everday Life",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "5",
+        "Time": "MTRF/12:00/J208"
+    },
+    {
+        "CID": "HUMH190-11",
+        "CRN": "1603",
+        "Name": "FY Writ Sem-Tech&Everday Life",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "5",
+        "Time": "MTRF/1:00/J208"
+    },
+    {
+        "CID": "HUMH334-01",
+        "CRN": "1554",
+        "Name": "Gender,Work, & Popular Culture",
+        "Prof": "livingst",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "25",
+        "Time": "MTR/12:00/O101; W/11:00-1:50/O101"
+    },
+    {
+        "CID": "HUMH410-01",
+        "CRN": "1555",
+        "Name": "Comm Lab Fellow Training",
+        "Prof": "atherton",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "TBA"
+    },
+    {
+        "CID": "JAPNL111-01",
+        "CRN": "1556",
+        "Name": "Japanese Language & Culture I",
+        "Prof": "hirotani",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/10:00/J206"
+    },
+    {
+        "CID": "JAPNL111-02",
+        "CRN": "1557",
+        "Name": "Japanese Language & Culture I",
+        "Prof": "hirotani",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "22",
+        "Time": "MTRF/11:00/J206"
+    },
+    {
+        "CID": "JAPNL211-01",
+        "CRN": "1558",
+        "Name": "Japanese Language & Culture IV",
+        "Prof": "hirotani",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "22",
+        "Time": "MTRF/2:00/J202"
+    },
+    {
+        "CID": "MA105-01",
+        "CRN": "1613",
+        "Name": "Calculus A",
+        "Prof": "finn",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/10:00/G219"
+    },
+    {
+        "CID": "MA105-02",
+        "CRN": "1614",
+        "Name": "Calculus A",
+        "Prof": "finn",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/11:00/G219"
+    },
+    {
+        "CID": "MA111-01",
+        "CRN": "1010",
+        "Name": "Calculus I",
+        "Prof": "butske",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/8:00/G219"
+    },
+    {
+        "CID": "MA111-02",
+        "CRN": "1011",
+        "Name": "Calculus I",
+        "Prof": "butske",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/9:00/G219"
+    },
+    {
+        "CID": "MA111-03",
+        "CRN": "1012",
+        "Name": "Calculus I",
+        "Prof": "eldredge",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/3:00/G219"
+    },
+    {
+        "CID": "MA111-04",
+        "CRN": "1013",
+        "Name": "Calculus I",
+        "Prof": "eldredge",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/4:00/G219"
+    },
+    {
+        "CID": "MA111-07",
+        "CRN": "1016",
+        "Name": "Calculus I",
+        "Prof": "holder1",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/9:00/G221"
+    },
+    {
+        "CID": "MA111-08",
+        "CRN": "1017",
+        "Name": "Calculus I",
+        "Prof": "holder1",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/10:00/G221"
+    },
+    {
+        "CID": "MA111-09",
+        "CRN": "1018",
+        "Name": "Calculus I",
+        "Prof": "holder1",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/11:00/G221"
+    },
+    {
+        "CID": "MA111-10",
+        "CRN": "1019",
+        "Name": "Calculus I",
+        "Prof": "olsen",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/2:00/G221"
+    },
+    {
+        "CID": "MA111-11",
+        "CRN": "1020",
+        "Name": "Calculus I",
+        "Prof": "olsen",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/3:00/G221"
+    },
+    {
+        "CID": "MA111-12",
+        "CRN": "1021",
+        "Name": "Calculus I",
+        "Prof": "petrik",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/8:00/G222"
+    },
+    {
+        "CID": "MA111-13",
+        "CRN": "1022",
+        "Name": "Calculus I",
+        "Prof": "petrik",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/9:00/G222"
+    },
+    {
+        "CID": "MA111-14",
+        "CRN": "1023",
+        "Name": "Calculus I",
+        "Prof": "shibberu",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/1:00/G219"
+    },
+    {
+        "CID": "MA111-15",
+        "CRN": "1024",
+        "Name": "Calculus I",
+        "Prof": "shibberu",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/2:00/G219"
+    },
+    {
+        "CID": "MA112-01",
+        "CRN": "1027",
+        "Name": "Calculus II",
+        "Prof": "rader",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/9:00/G310"
+    },
+    {
+        "CID": "MA112-02",
+        "CRN": "1028",
+        "Name": "Calculus II",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/3:00/G222"
+    },
+    {
+        "CID": "MA112-03",
+        "CRN": "1029",
+        "Name": "Calculus II",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTWRF/4:00/G222"
+    },
+    {
+        "CID": "MA112-04",
+        "CRN": "1030",
+        "Name": "Calculus II",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "2",
+        "Cap": "25",
+        "Time": "MTWRF/10:00/G222"
+    },
+    {
+        "CID": "MA112-05",
+        "CRN": "1031",
+        "Name": "Calculus II",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/11:00/G222"
+    },
+    {
+        "CID": "MA113-01",
+        "CRN": "1032",
+        "Name": "Calculus III",
+        "Prof": "claassen",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/10:00/G310"
+    },
+    {
+        "CID": "MA113-02",
+        "CRN": "1033",
+        "Name": "Calculus III",
+        "Prof": "claassen",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/11:00/G310"
+    },
+    {
+        "CID": "MA113-03",
+        "CRN": "1034",
+        "Name": "Calculus III",
+        "Prof": "leader",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/2:00/G310"
+    },
+    {
+        "CID": "MA113-04",
+        "CRN": "1035",
+        "Name": "Calculus III",
+        "Prof": "leader",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/3:00/G310"
+    },
+    {
+        "CID": "MA113-05",
+        "CRN": "1036",
+        "Name": "Calculus III",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/1:00/G313"
+    },
+    {
+        "CID": "MA113-06",
+        "CRN": "1096",
+        "Name": "Calculus III",
+        "Prof": "tba",
+        "Hours": "5",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTWRF/2:00/G313"
+    },
+    {
+        "CID": "MA113-07",
+        "CRN": "1037",
+        "Name": "Calculus III",
+        "Prof": "holder",
+        "Hours": "5",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTWRF/10:00/G313"
+    },
+    {
+        "CID": "MA113-08",
+        "CRN": "1038",
+        "Name": "Calculus III",
+        "Prof": "holder",
+        "Hours": "5",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTWRF/11:00/G313"
+    },
+    {
+        "CID": "MA113-09",
+        "CRN": "1039",
+        "Name": "Calculus III",
+        "Prof": "rickert",
+        "Hours": "5",
+        "Enrl": "23",
+        "Cap": "25",
+        "Time": "MTWRF/3:00/G313"
+    },
+    {
+        "CID": "MA113-10",
+        "CRN": "1080",
+        "Name": "Calculus III",
+        "Prof": "rickert",
+        "Hours": "5",
+        "Enrl": "6",
+        "Cap": "25",
+        "Time": "MTWRF/4:00/G313"
+    },
+    {
+        "CID": "MA113-11",
+        "CRN": "1097",
+        "Name": "Calculus III",
+        "Prof": "holden",
+        "Hours": "5",
+        "Enrl": "1",
+        "Cap": "25",
+        "Time": "MTWRF/2:00/G222"
+    },
+    {
+        "CID": "MA221-01",
+        "CRN": "1040",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "langley",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTRF/2:00/G315"
+    },
+    {
+        "CID": "MA221-02",
+        "CRN": "1041",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "langley",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTRF/3:00/G315"
+    },
+    {
+        "CID": "MA221-03",
+        "CRN": "1042",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "carlisle",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/8:00/G221"
+    },
+    {
+        "CID": "MA221-04",
+        "CRN": "1043",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "eldredge",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/12:00/G315"
+    },
+    {
+        "CID": "MA221-05",
+        "CRN": "1044",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "goulet",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "25",
+        "Time": "MTRF/11:00/G315"
+    },
+    {
+        "CID": "MA221-06",
+        "CRN": "1045",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "green",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/4:00/G221"
+    },
+    {
+        "CID": "MA221-07",
+        "CRN": "1046",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/8:00/G313"
+    },
+    {
+        "CID": "MA221-08",
+        "CRN": "1047",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/9:00/G313"
+    },
+    {
+        "CID": "MA221-09",
+        "CRN": "1048",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "olsen",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/12:00/G313"
+    },
+    {
+        "CID": "MA221-10",
+        "CRN": "1049",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/1:00/G317"
+    },
+    {
+        "CID": "MA221-11",
+        "CRN": "1050",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/2:00/G317"
+    },
+    {
+        "CID": "MA222-01",
+        "CRN": "1054",
+        "Name": "Matrix Alg & Diff Equations II",
+        "Prof": "all1",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/10:00/G220"
+    },
+    {
+        "CID": "MA222-02",
+        "CRN": "1055",
+        "Name": "Matrix Alg & Diff Equations II",
+        "Prof": "claassen",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "25",
+        "Time": "MTRF/1:00/G222"
+    },
+    {
+        "CID": "MA222-03",
+        "CRN": "1056",
+        "Name": "Matrix Alg & Diff Equations II",
+        "Prof": "goulet",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "25",
+        "Time": "MTRF/3:00/G317"
+    },
+    {
+        "CID": "MA222-04",
+        "CRN": "1057",
+        "Name": "Matrix Alg & Diff Equations II",
+        "Prof": "goulet",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "25",
+        "Time": "MTRF/4:00/G317"
+    },
+    {
+        "CID": "MA223-01",
+        "CRN": "1058",
+        "Name": "Engineering Statistics I",
+        "Prof": "heyman",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MR/9:00/M103"
+    },
+    {
+        "CID": "MA223-02",
+        "CRN": "1059",
+        "Name": "Engineering Statistics I",
+        "Prof": "heyman",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MR/10:00/M103"
+    },
+    {
+        "CID": "MA223-03",
+        "CRN": "1233",
+        "Name": "Engineering Statistics I",
+        "Prof": "reyesem",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "25",
+        "Time": "TF/9:00/M103"
+    },
+    {
+        "CID": "MA276-01",
+        "CRN": "1060",
+        "Name": "Introduction to Proofs",
+        "Prof": "all1",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "22",
+        "Time": "MTRF/1:00/G308"
+    },
+    {
+        "CID": "MA276-02",
+        "CRN": "1061",
+        "Name": "Introduction to Proofs",
+        "Prof": "all1",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "22",
+        "Time": "MTRF/2:00/G308"
+    },
+    {
+        "CID": "MA276-03",
+        "CRN": "1062",
+        "Name": "Introduction to Proofs",
+        "Prof": "billings",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/9:00/G315"
+    },
+    {
+        "CID": "MA276-04",
+        "CRN": "1063",
+        "Name": "Introduction to Proofs",
+        "Prof": "billings",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/10:00/G315"
+    },
+    {
+        "CID": "MA276-05",
+        "CRN": "1081",
+        "Name": "Introduction to Proofs",
+        "Prof": "petrik",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/12:00/G308"
+    },
+    {
+        "CID": "MA330-01",
+        "CRN": "1064",
+        "Name": "Vector Calculus",
+        "Prof": "tarrant",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTRF/11:00/G317"
+    },
+    {
+        "CID": "MA332-01",
+        "CRN": "1065",
+        "Name": "Intro to Computational Science",
+        "Prof": "leader",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "MTRF/11:00/G220"
+    },
+    {
+        "CID": "MA336-01",
+        "CRN": "1066",
+        "Name": "Boundary Value Problems",
+        "Prof": "butske",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTRF/1:00/G310"
+    },
+    {
+        "CID": "MA366-01",
+        "CRN": "1067",
+        "Name": "Introduction to Real Analysis",
+        "Prof": "carlisle",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "12",
+        "Time": "MTRF/11:00/B106"
+    },
+    {
+        "CID": "MA371-01",
+        "CRN": "1068",
+        "Name": "Linear Algebra I",
+        "Prof": "green",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "24",
+        "Time": "MTRF/12:00/G222"
+    },
+    {
+        "CID": "MA374-01",
+        "CRN": "1069",
+        "Name": "Combinatorics",
+        "Prof": "billings",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "24",
+        "Time": "MTRF/1:00/G315"
+    },
+    {
+        "CID": "MA374-02",
+        "CRN": "1234",
+        "Name": "Combinatorics",
+        "Prof": "langley",
+        "Hours": "4",
+        "Enrl": "28",
+        "Cap": "24",
+        "Time": "MTRF/12:00/G219"
+    },
+    {
+        "CID": "MA381-01",
+        "CRN": "1070",
+        "Name": "Intro Problty w/ Appl to Stats",
+        "Prof": "rickert",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "25",
+        "Time": "MTRF/1:00/G221"
+    },
+    {
+        "CID": "MA381-02",
+        "CRN": "1071",
+        "Name": "Intro Problty w/ Appl to Stats",
+        "Prof": "tarrant",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "25",
+        "Time": "MTRF/3:00/G308"
+    },
+    {
+        "CID": "MA381-03",
+        "CRN": "1235",
+        "Name": "Intro Problty w/ Appl to Stats",
+        "Prof": "tarrant",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "25",
+        "Time": "MTRF/4:00/G308"
+    },
+    {
+        "CID": "MA382-01",
+        "CRN": "1072",
+        "Name": "Intro to Stats w/Probability",
+        "Prof": "reyesem",
+        "Hours": "4",
+        "Enrl": "18",
+        "Cap": "25",
+        "Time": "T/12:00/O267; F/12:00/G220"
+    },
+    {
+        "CID": "MA382-02",
+        "CRN": "1073",
+        "Name": "Intro to Stats w/Probability",
+        "Prof": "reyesem",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "25",
+        "Time": "T/1:00/O267; F/1:00/G220"
+    },
+    {
+        "CID": "MA386-01",
+        "CRN": "1074",
+        "Name": "Statistical Programming",
+        "Prof": "heyman",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "25",
+        "Time": "MR/12:00/G221"
+    },
+    {
+        "CID": "MA416-01",
+        "CRN": "1075",
+        "Name": "Deep Learning",
+        "Prof": "shibberu",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "25",
+        "Time": "MTRF/10:00/G317"
+    },
+    {
+        "CID": "MA416-02",
+        "CRN": "1591",
+        "Name": "Deep Learning",
+        "Prof": "boutell",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O169"
+    },
+    {
+        "CID": "MA421-01",
+        "CRN": "1236",
+        "Name": "Tensor Calc & Riemannian Geom",
+        "Prof": "finn",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "25",
+        "Time": "MTRF/2:00/G220"
+    },
+    {
+        "CID": "MA439-01",
+        "CRN": "1237",
+        "Name": "Math Methods of Image Proc",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "25",
+        "Time": "MTRF/12:00/G310"
+    },
+    {
+        "CID": "MA461-01",
+        "CRN": "1393",
+        "Name": "Topics in Topology",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "10",
+        "Time": "TBA"
+    },
+    {
+        "CID": "MA490-01",
+        "CRN": "1608",
+        "Name": "Arithmetic Geometry",
+        "Prof": "butske",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "MA491-01",
+        "CRN": "1077",
+        "Name": "Intro to Mathematical Modeling",
+        "Prof": "holder",
+        "Hours": "2",
+        "Enrl": "6",
+        "Cap": "25",
+        "Time": "MR/8:00/G308"
+    },
+    {
+        "CID": "MA495-01",
+        "CRN": "1630",
+        "Name": "Analysis of PDEs",
+        "Prof": "green",
+        "Hours": "2",
+        "Enrl": "3",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-01",
+        "CRN": "1605",
+        "Name": "Senior Thesis I",
+        "Prof": "all1",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-02",
+        "CRN": "1623",
+        "Name": "Senior Thesis I",
+        "Prof": "tarrant",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-03",
+        "CRN": "1624",
+        "Name": "Senior Thesis I",
+        "Prof": "billings",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-04",
+        "CRN": "1625",
+        "Name": "Senior Thesis I",
+        "Prof": "finn",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-05",
+        "CRN": "1626",
+        "Name": "Senior Thesis I",
+        "Prof": "shibberu",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-06",
+        "CRN": "1631",
+        "Name": "Senior Thesis I",
+        "Prof": "kim1",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MA496-07",
+        "CRN": "1638",
+        "Name": "Senior Thesis I",
+        "Prof": "holden",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "MDS150-01",
+        "CRN": "1287",
+        "Name": "Leading Together",
+        "Prof": "lattakn",
+        "Hours": "1",
+        "Enrl": "20",
+        "Cap": "30",
+        "Time": "W/9:00-10:50/J206"
+    },
+    {
+        "CID": "MDS220-01",
+        "CRN": "1589",
+        "Name": "Intro to Research Fundamentals",
+        "Prof": "brockman",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "R/4:00/J206"
+    },
+    {
+        "CID": "MDS410-01",
+        "CRN": "1475",
+        "Name": "Multidisciplinary Capstone I",
+        "Prof": "mccormac",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "20",
+        "Time": "MR/4:00/E104; W/2:00-4:50/M103"
+    },
+    {
+        "CID": "ME123-01",
+        "CRN": "1404",
+        "Name": "Computer Programming",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "26",
+        "Cap": "28",
+        "Time": "MTRF/12:00/O167"
+    },
+    {
+        "CID": "ME301-01",
+        "CRN": "1405",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/1:00/KIC159"
+    },
+    {
+        "CID": "ME301-02",
+        "CRN": "1406",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "MTRF/2:00/KIC159"
+    },
+    {
+        "CID": "ME301-03",
+        "CRN": "1407",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/1:00/O201"
+    },
+    {
+        "CID": "ME301-04",
+        "CRN": "1408",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "MTRF/2:00/O201"
+    },
+    {
+        "CID": "ME301-05",
+        "CRN": "1409",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/12:00/O169"
+    },
+    {
+        "CID": "ME301-06",
+        "CRN": "1476",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTRF/1:00/O169"
+    },
+    {
+        "CID": "ME302-01",
+        "CRN": "1410",
+        "Name": "Heat Transfer",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "30",
+        "Time": "MTRF/9:00/G317"
+    },
+    {
+        "CID": "ME317-01",
+        "CRN": "1411",
+        "Name": "Design for Manufacturing",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "28",
+        "Cap": "30",
+        "Time": "MTRF/2:00/O205"
+    },
+    {
+        "CID": "ME317-02",
+        "CRN": "1412",
+        "Name": "Design for Manufacturing",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "30",
+        "Time": "MTRF/3:00/O205"
+    },
+    {
+        "CID": "ME321-01",
+        "CRN": "1413",
+        "Name": "Measurement Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "22",
+        "Time": "MWF/10:00-11:50/KIC158"
+    },
+    {
+        "CID": "ME328-01",
+        "CRN": "1414",
+        "Name": "Materials Engineering",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "30",
+        "Time": "MTRF/3:00/KIC159"
+    },
+    {
+        "CID": "ME359-01",
+        "CRN": "1415",
+        "Name": "Vehicle System Modeling",
+        "Prof": "chambez",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "MTRF/1:00/KIC158"
+    },
+    {
+        "CID": "ME406-01",
+        "CRN": "1417",
+        "Name": "Control Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "25",
+        "Time": "MTR/8:00/O205; M/2:00-4:50/C116"
+    },
+    {
+        "CID": "ME406-02",
+        "CRN": "1418",
+        "Name": "Control Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "25",
+        "Time": "MTR/9:00/O205; T/2:00-4:50/C116"
+    },
+    {
+        "CID": "ME406-03",
+        "CRN": "1419",
+        "Name": "Control Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "25",
+        "Time": "MTR/9:00/B111; F/8:00-10:50/C116"
+    },
+    {
+        "CID": "ME406-04",
+        "CRN": "1477",
+        "Name": "Control Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "25",
+        "Time": "MTR/10:00/TBA; R/2:00-4:50/C116"
+    },
+    {
+        "CID": "ME410-01",
+        "CRN": "1420",
+        "Name": "Internal Combustion Engines",
+        "Prof": "white",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "20",
+        "Time": "MTRF/12:00/KIC159"
+    },
+    {
+        "CID": "ME421-01",
+        "CRN": "1421",
+        "Name": "Mechanical Engr Laboratory",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "8",
+        "Cap": "24",
+        "Time": "MTR/8:00-9:50/DL207"
+    },
+    {
+        "CID": "ME421-02",
+        "CRN": "1422",
+        "Name": "Mechanical Engr Laboratory",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "MTR/10:00-11:50/DL207"
+    },
+    {
+        "CID": "ME421-03",
+        "CRN": "1423",
+        "Name": "Mechanical Engr Laboratory",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "10",
+        "Cap": "24",
+        "Time": "MTR/12:00-1:50/DL207"
+    },
+    {
+        "CID": "ME424-01",
+        "CRN": "1478",
+        "Name": "Mechanics of Composites",
+        "Prof": "riley1",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "30",
+        "Time": "MTRF/11:00/O205"
+    },
+    {
+        "CID": "ME426-01",
+        "CRN": "1424",
+        "Name": "Turbomachinery",
+        "Prof": "mertzb",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "30",
+        "Time": "MTRF/2:00/DL207"
+    },
+    {
+        "CID": "ME430-01",
+        "CRN": "1425",
+        "Name": "Mechatronic Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTR/12:00-1:50/C111"
+    },
+    {
+        "CID": "ME430-02",
+        "CRN": "1426",
+        "Name": "Mechatronic Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTR/2:00-3:50/C111"
+    },
+    {
+        "CID": "ME430-03",
+        "CRN": "1427",
+        "Name": "Mechatronic Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "22",
+        "Time": "MTR/8:00-9:50/C111"
+    },
+    {
+        "CID": "ME430-04",
+        "CRN": "1428",
+        "Name": "Mechatronic Systems",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTR/10:00-11:50/C111"
+    },
+    {
+        "CID": "ME441-01",
+        "CRN": "1440",
+        "Name": "Adv Modeling, Simulation Techn",
+        "Prof": "canino",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "30",
+        "Time": "MTRF/12:00/D101"
+    },
+    {
+        "CID": "ME461-01",
+        "CRN": "1429",
+        "Name": "Aircraft Design",
+        "Prof": "mayhew",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "24",
+        "Time": "MTRF/3:00/D101"
+    },
+    {
+        "CID": "ME470-01",
+        "CRN": "1430",
+        "Name": "Capstone Design I",
+        "Prof": "chambez",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "20",
+        "Time": "MR/4:00/KIC159; W/8:00-10:50/BIC"
+    },
+    {
+        "CID": "ME470-02",
+        "CRN": "1431",
+        "Name": "Capstone Design I",
+        "Prof": "chambez",
+        "Hours": "4",
+        "Enrl": "28",
+        "Cap": "20",
+        "Time": "TF/4:00/KIC159; W/2:00-4:50/BIC"
+    },
+    {
+        "CID": "ME470-03",
+        "CRN": "1432",
+        "Name": "Capstone Design I",
+        "Prof": "sangelka",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "20",
+        "Time": "MR/4:00/M103; W/8:00-10:50/J208"
+    },
+    {
+        "CID": "ME470-04",
+        "CRN": "1433",
+        "Name": "Capstone Design I",
+        "Prof": "sangelka",
+        "Hours": "4",
+        "Enrl": "27",
+        "Cap": "20",
+        "Time": "TF/4:00/M103; W/2:00-4:50/J208"
+    },
+    {
+        "CID": "ME471-01",
+        "CRN": "1434",
+        "Name": "Capstone Design II",
+        "Prof": "bernala",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "20",
+        "Time": "M/4:00/C111; W/1:00-4:50/C111"
+    },
+    {
+        "CID": "ME480-01",
+        "CRN": "1435",
+        "Name": "Machine Component Design",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "30",
+        "Time": "MTRF/8:00/KIC159"
+    },
+    {
+        "CID": "ME480-02",
+        "CRN": "1436",
+        "Name": "Machine Component Design",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "30",
+        "Time": "MTRF/9:00/KIC159"
+    },
+    {
+        "CID": "ME497-01",
+        "CRN": "1629",
+        "Name": "Breast Cancer Research Project",
+        "Prof": "olson1",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "TBA"
+    },
+    {
+        "CID": "ME510-01",
+        "CRN": "1437",
+        "Name": "Gas Dynamics",
+        "Prof": "luic",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "28",
+        "Time": "MTRF/11:00/D101"
+    },
+    {
+        "CID": "ME524-01",
+        "CRN": "1479",
+        "Name": "Mechanics of Composites",
+        "Prof": "riley1",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "30",
+        "Time": "MTRF/11:00/O205"
+    },
+    {
+        "CID": "ME526-01",
+        "CRN": "1480",
+        "Name": "Turbomachinery",
+        "Prof": "mertzb",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "30",
+        "Time": "MTRF/2:00/DL207"
+    },
+    {
+        "CID": "ME541-01",
+        "CRN": "1481",
+        "Name": "Adv Modeling, Simulation Techn",
+        "Prof": "canino",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "30",
+        "Time": "MTRF/12:00/D101"
+    },
+    {
+        "CID": "MS101-01",
+        "CRN": "1619",
+        "Name": "Intro Army & Critical Thinking",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "30",
+        "Time": ""
+    },
+    {
+        "CID": "MS201-01",
+        "CRN": "1620",
+        "Name": "Leadership & Decision Making",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "30",
+        "Time": ""
+    },
+    {
+        "CID": "MS301-01",
+        "CRN": "1621",
+        "Name": "Train Mgmt/Warfight Functions",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "30",
+        "Time": ""
+    },
+    {
+        "CID": "MS401-01",
+        "CRN": "1622",
+        "Name": "Mission Command & Ethics",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "30",
+        "Time": ""
+    },
+    {
+        "CID": "MUSIH202-01",
+        "CRN": "1559",
+        "Name": "Baroque,Classicl,RomanticMusic",
+        "Prof": "chapman1",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/10:00/HH163"
+    },
+    {
+        "CID": "MUSIH202-02",
+        "CRN": "1560",
+        "Name": "Baroque,Classicl,RomanticMusic",
+        "Prof": "chapman1",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTRF/11:00/HH163"
+    },
+    {
+        "CID": "OE290-01",
+        "CRN": "1324",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "OE392-01",
+        "CRN": "1325",
+        "Name": "Linear Optical Systems",
+        "Prof": "reza",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "18",
+        "Time": "MTRF/12:00/TBA"
+    },
+    {
+        "CID": "OE395-01",
+        "CRN": "1326",
+        "Name": "Optomechanics & Opt Eng Lab",
+        "Prof": "granieri",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "10",
+        "Time": "MW/3:00/TBA; TR/2:00-4:50/DL115"
+    },
+    {
+        "CID": "OE416-01",
+        "CRN": "1332",
+        "Name": "Optical Engineering Design II",
+        "Prof": "reza&pfiester",
+        "Hours": "4",
+        "Enrl": "8",
+        "Cap": "20",
+        "Time": "MR/3:00/DL115; TF/1:00-3:50/BL112"
+    },
+    {
+        "CID": "OE470-01",
+        "CRN": "1333",
+        "Name": "Special Topics in Optical Engr",
+        "Prof": "tba",
+        "Hours": "2TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "OE480-OL1",
+        "CRN": "1334",
+        "Name": "Optical System Design",
+        "Prof": "alisafae",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "25",
+        "Time": "MTRF/4:00/TBA"
+    },
+    {
+        "CID": "OE490-01",
+        "CRN": "1335",
+        "Name": "Tail Light Build",
+        "Prof": "alisafae",
+        "Hours": "2",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "OE497-01",
+        "CRN": "1336",
+        "Name": "Senior Thesis",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "OE520-01",
+        "CRN": "1337",
+        "Name": "Principles of Optics",
+        "Prof": "tba",
+        "Hours": "2",
+        "Enrl": "0",
+        "Cap": "20",
+        "Time": "TR/1:00/TBA"
+    },
+    {
+        "CID": "OE580-OL1",
+        "CRN": "1339",
+        "Name": "Optical System Design",
+        "Prof": "alisafae",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "25",
+        "Time": "MTRF/4:00/TBA"
+    },
+    {
+        "CID": "OE594-01",
+        "CRN": "1340",
+        "Name": "Integrated Silicon Photonics",
+        "Prof": "siahmako",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "TR/3:00-4:50/TBA; TBA/TBA/M138"
+    },
+    {
+        "CID": "OE599-01",
+        "CRN": "1341",
+        "Name": "Thesis Research",
+        "Prof": "tba",
+        "Hours": "1TO12",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "PH111-01",
+        "CRN": "1484",
+        "Name": "Physics I",
+        "Prof": "wagner",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/8:00/O101"
+    },
+    {
+        "CID": "PH111-02",
+        "CRN": "1485",
+        "Name": "Physics I",
+        "Prof": "wagner",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "MTRF/9:00/O101"
+    },
+    {
+        "CID": "PH111-03",
+        "CRN": "1486",
+        "Name": "Physics I",
+        "Prof": "baker9",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "MTRF/3:00/O103"
+    },
+    {
+        "CID": "PH111-04",
+        "CRN": "1487",
+        "Name": "Physics I",
+        "Prof": "baker9",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "MTRF/4:00/O103"
+    },
+    {
+        "CID": "PH111-05",
+        "CRN": "1488",
+        "Name": "Physics I",
+        "Prof": "alisafae",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O259"
+    },
+    {
+        "CID": "PH111-06",
+        "CRN": "1489",
+        "Name": "Physics I",
+        "Prof": "alisafae",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "24",
+        "Time": "MTRF/12:00/O259"
+    },
+    {
+        "CID": "PH111-07",
+        "CRN": "1490",
+        "Name": "Physics I",
+        "Prof": "granieri",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/12:00/G317"
+    },
+    {
+        "CID": "PH111-08",
+        "CRN": "1491",
+        "Name": "Physics I",
+        "Prof": "joenatha",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/2:00/O103"
+    },
+    {
+        "CID": "PH111-09",
+        "CRN": "1492",
+        "Name": "Physics I",
+        "Prof": "kirkpatr",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/3:00/O157"
+    },
+    {
+        "CID": "PH111-10",
+        "CRN": "1493",
+        "Name": "Physics I",
+        "Prof": "kirtley",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "MTRF/1:00/B111"
+    },
+    {
+        "CID": "PH111-11",
+        "CRN": "1494",
+        "Name": "Physics I",
+        "Prof": "syed",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/3:00/O167"
+    },
+    {
+        "CID": "PH111-12",
+        "CRN": "1495",
+        "Name": "Physics I",
+        "Prof": "syed",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/4:00/O167"
+    },
+    {
+        "CID": "PH111-13",
+        "CRN": "1496",
+        "Name": "Physics I",
+        "Prof": "duree",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/11:00/O201"
+    },
+    {
+        "CID": "PH111-14",
+        "CRN": "1497",
+        "Name": "Physics I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/8:00/O159"
+    },
+    {
+        "CID": "PH111-15",
+        "CRN": "1498",
+        "Name": "Physics I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "MTRF/12:00/O159"
+    },
+    {
+        "CID": "PH111-16",
+        "CRN": "1499",
+        "Name": "Physics I",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": ""
+    },
+    {
+        "CID": "PH111L-51",
+        "CRN": "1502",
+        "Name": "Physics I Lab",
+        "Prof": "kirtley",
+        "Hours": "0",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "M/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-52",
+        "CRN": "1503",
+        "Name": "Physics I Lab",
+        "Prof": "wagner",
+        "Hours": "0",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "T/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-53",
+        "CRN": "1504",
+        "Name": "Physics I Lab",
+        "Prof": "granieri",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "W/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH111L-54",
+        "CRN": "1505",
+        "Name": "Physics I Lab",
+        "Prof": "kirkpatr",
+        "Hours": "0",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "W/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH111L-55",
+        "CRN": "1506",
+        "Name": "Physics I Lab",
+        "Prof": "wagner",
+        "Hours": "0",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "W/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-56",
+        "CRN": "1507",
+        "Name": "Physics I Lab",
+        "Prof": "syed",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "W/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-57",
+        "CRN": "1508",
+        "Name": "Physics I Lab",
+        "Prof": "syed",
+        "Hours": "0",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-58",
+        "CRN": "1509",
+        "Name": "Physics I Lab",
+        "Prof": "syed",
+        "Hours": "0",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-59",
+        "CRN": "1510",
+        "Name": "Physics I Lab",
+        "Prof": "duree",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "R/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH111L-60",
+        "CRN": "1511",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "F/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-61",
+        "CRN": "1512",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "F/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-62",
+        "CRN": "1513",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "M/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH111L-63",
+        "CRN": "1514",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "M/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-64",
+        "CRN": "1515",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "T/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH111L-65",
+        "CRN": "1516",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "T/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-66",
+        "CRN": "1517",
+        "Name": "Physics I Lab",
+        "Prof": "reza",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "R/11:00-1:50/BL113"
+    },
+    {
+        "CID": "PH111L-67",
+        "CRN": "1518",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "R/2:00-4:50/BL113"
+    },
+    {
+        "CID": "PH111L-68",
+        "CRN": "1519",
+        "Name": "Physics I Lab",
+        "Prof": "tba",
+        "Hours": "0",
+        "Enrl": "0",
+        "Cap": "24",
+        "Time": "F/8:00-10:50/BL113"
+    },
+    {
+        "CID": "PH112-01",
+        "CRN": "1520",
+        "Name": "Physics II",
+        "Prof": "hashemi",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "24",
+        "Time": "MTRF/9:00/G308"
+    },
+    {
+        "CID": "PH112-02",
+        "CRN": "1521",
+        "Name": "Physics II",
+        "Prof": "hashemi",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "24",
+        "Time": "MTRF/10:00/G308"
+    },
+    {
+        "CID": "PH112-03",
+        "CRN": "1522",
+        "Name": "Physics II",
+        "Prof": "meltonej",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "24",
+        "Time": "MTRF/3:00/G220"
+    },
+    {
+        "CID": "PH112-04",
+        "CRN": "1615",
+        "Name": "Physics II",
+        "Prof": "pfiester",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "MTRF/8:00/TBA"
+    },
+    {
+        "CID": "PH112L-51",
+        "CRN": "1523",
+        "Name": "Physics II Lab",
+        "Prof": "hashemi",
+        "Hours": "0",
+        "Enrl": "4",
+        "Cap": "24",
+        "Time": "W/8:00-10:50/BL114"
+    },
+    {
+        "CID": "PH112L-52",
+        "CRN": "1524",
+        "Name": "Physics II Lab",
+        "Prof": "meltonej",
+        "Hours": "0",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "W/2:00-4:50/BL114"
+    },
+    {
+        "CID": "PH112L-53",
+        "CRN": "1588",
+        "Name": "Physics II Lab",
+        "Prof": "meltonej",
+        "Hours": "0",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "W/11:00-1:50/BL114"
+    },
+    {
+        "CID": "PH113-01",
+        "CRN": "1525",
+        "Name": "Physics III (Studio)",
+        "Prof": "popovic",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "24",
+        "Time": "MTR/11:00-12:50/O233"
+    },
+    {
+        "CID": "PH113-02",
+        "CRN": "1526",
+        "Name": "Physics III (Studio)",
+        "Prof": "marince1",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "TWF/2:00-3:50/O101"
+    },
+    {
+        "CID": "PH231-01",
+        "CRN": "1264",
+        "Name": "Observational Astronomy",
+        "Prof": "meltonej",
+        "Hours": "2",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "TBA"
+    },
+    {
+        "CID": "PH235-01",
+        "CRN": "1265",
+        "Name": "Many-Particle Physics",
+        "Prof": "kirtley",
+        "Hours": "4",
+        "Enrl": "29",
+        "Cap": "28",
+        "Time": "MTRF/10:00/B111"
+    },
+    {
+        "CID": "PH235L-01",
+        "CRN": "1266",
+        "Name": "Many-Particle Physics Lab",
+        "Prof": "kirtley",
+        "Hours": "0",
+        "Enrl": "17",
+        "Cap": "28",
+        "Time": "W/8:00-10:50/TBA"
+    },
+    {
+        "CID": "PH235L-02",
+        "CRN": "1267",
+        "Name": "Many-Particle Physics Lab",
+        "Prof": "kirtley",
+        "Hours": "0",
+        "Enrl": "9",
+        "Cap": "28",
+        "Time": "W/11:00-1:50/TBA"
+    },
+    {
+        "CID": "PH290-01",
+        "CRN": "1268",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "PH292-01",
+        "CRN": "1269",
+        "Name": "Physical Optics",
+        "Prof": "joenatha",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "28",
+        "Time": "MTRF/9:00/O103"
+    },
+    {
+        "CID": "PH292L-01",
+        "CRN": "1270",
+        "Name": "Physical Optics Lab",
+        "Prof": "joenatha",
+        "Hours": "0",
+        "Enrl": "12",
+        "Cap": "14",
+        "Time": "W/11:00-1:50/CL118"
+    },
+    {
+        "CID": "PH292L-02",
+        "CRN": "1273",
+        "Name": "Physical Optics Lab",
+        "Prof": "joenatha",
+        "Hours": "0",
+        "Enrl": "7",
+        "Cap": "14",
+        "Time": "W/2:00-4:50/CL118"
+    },
+    {
+        "CID": "PH302-01",
+        "CRN": "1275",
+        "Name": "Biophysics",
+        "Prof": "popovic",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "30",
+        "Time": "MTRF/10:00/O103"
+    },
+    {
+        "CID": "PH310-01",
+        "CRN": "1277",
+        "Name": "Intro to Special Relativity",
+        "Prof": "syed",
+        "Hours": "2",
+        "Enrl": "9",
+        "Cap": "30",
+        "Time": "MF/1:00/TBA"
+    },
+    {
+        "CID": "PH316-01",
+        "CRN": "1282",
+        "Name": "Electric & Magnetic Fields",
+        "Prof": "baker9",
+        "Hours": "4",
+        "Enrl": "30",
+        "Cap": "30",
+        "Time": "MTRF/11:00/O231"
+    },
+    {
+        "CID": "PH405-01",
+        "CRN": "1288",
+        "Name": "Semicond Materials & Applictns",
+        "Prof": "kirkpatr",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTR/12:00/G220"
+    },
+    {
+        "CID": "PH405-02",
+        "CRN": "1311",
+        "Name": "Semicond Materials & Applictns",
+        "Prof": "kirkpatr",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "MTR/1:00/G220"
+    },
+    {
+        "CID": "PH405L-01",
+        "CRN": "1313",
+        "Name": "Semicond Materials & Apps Lab",
+        "Prof": "pfiester",
+        "Hours": "0",
+        "Enrl": "12",
+        "Cap": "12",
+        "Time": "W/11:00-1:50/BL112"
+    },
+    {
+        "CID": "PH405L-02",
+        "CRN": "1315",
+        "Name": "Semicond Materials & Apps Lab",
+        "Prof": "kirkpatr",
+        "Hours": "0",
+        "Enrl": "9",
+        "Cap": "12",
+        "Time": "W/8:00-10:50/BL112"
+    },
+    {
+        "CID": "PH405L-03",
+        "CRN": "1317",
+        "Name": "Semicond Materials & Apps Lab",
+        "Prof": "pfiester",
+        "Hours": "0",
+        "Enrl": "12",
+        "Cap": "12",
+        "Time": "W/2:00-4:50/BL112"
+    },
+    {
+        "CID": "PH470-01",
+        "CRN": "1319",
+        "Name": "Special Topics in Physics",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "PH490-01",
+        "CRN": "1321",
+        "Name": "Directed Research",
+        "Prof": "tba",
+        "Hours": "1TO4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": ""
+    },
+    {
+        "CID": "PH497-01",
+        "CRN": "1322",
+        "Name": "Senior Thesis",
+        "Prof": "duree",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "POLSS102-01",
+        "CRN": "1561",
+        "Name": "International Relations",
+        "Prof": "casey1",
+        "Hours": "4",
+        "Enrl": "25",
+        "Cap": "25",
+        "Time": "MTR/1:00/M137; F/1:00/M137"
+    },
+    {
+        "CID": "POLSS102-02",
+        "CRN": "1562",
+        "Name": "International Relations",
+        "Prof": "casey1",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "25",
+        "Time": "MTR/1:00/M137; F/2:00/M137"
+    },
+    {
+        "CID": "RELGH101-01",
+        "CRN": "1563",
+        "Name": "Intro to Religious Studies",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "25",
+        "Time": "MTRF/10:00/J204"
+    },
+    {
+        "CID": "RH330-01",
+        "CRN": "1570",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "atherton",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "22",
+        "Time": "MTRF/8:00/J206"
+    },
+    {
+        "CID": "RH330-02",
+        "CRN": "1571",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "atherton",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/9:00/J206"
+    },
+    {
+        "CID": "RH330-03",
+        "CRN": "1572",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "dyer1",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "TRF/9:00/J213"
+    },
+    {
+        "CID": "RH330-04",
+        "CRN": "1573",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "dyer1",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "TRF/10:00/J213"
+    },
+    {
+        "CID": "RH330-05",
+        "CRN": "1574",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "livingst",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "22",
+        "Time": "MTR/3:00/M107"
+    },
+    {
+        "CID": "RH330-06",
+        "CRN": "1575",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "livingst",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTR/4:00/M107"
+    },
+    {
+        "CID": "RH330-07",
+        "CRN": "1576",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "MTRF/1:00/J204"
+    },
+    {
+        "CID": "RH330-08",
+        "CRN": "1577",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "22",
+        "Time": "MTRF/2:00/J204"
+    },
+    {
+        "CID": "RH330-09",
+        "CRN": "1578",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "sulliva5",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "TRF/2:00/J215"
+    },
+    {
+        "CID": "RH330-10",
+        "CRN": "1579",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "sulliva5",
+        "Hours": "4",
+        "Enrl": "22",
+        "Cap": "22",
+        "Time": "TRF/3:00/J215"
+    },
+    {
+        "CID": "SPANL111-01",
+        "CRN": "1564",
+        "Name": "Spanish Language & Culture I",
+        "Prof": "gardner",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "22",
+        "Time": "MTRF/8:00/J215"
+    },
+    {
+        "CID": "SPANL111-02",
+        "CRN": "1565",
+        "Name": "Spanish Language & Culture I",
+        "Prof": "gardner",
+        "Hours": "4",
+        "Enrl": "18",
+        "Cap": "22",
+        "Time": "MTRF/9:00/J215"
+    },
+    {
+        "CID": "SPANL111-03",
+        "CRN": "1566",
+        "Name": "Spanish Language & Culture I",
+        "Prof": "gardner",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "22",
+        "Time": "MTRF/1:00/J213"
+    },
+    {
+        "CID": "SPANL112-01",
+        "CRN": "1567",
+        "Name": "Spanish Language & Culture II",
+        "Prof": "garcia",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "22",
+        "Time": "MTRF/12:00/J213"
+    },
+    {
+        "CID": "SPANL211-01",
+        "CRN": "1568",
+        "Name": "Spanish Language & Culture IV",
+        "Prof": "garcia",
+        "Hours": "4",
+        "Enrl": "10",
+        "Cap": "22",
+        "Time": "MTRF/2:00/J213"
+    },
+    {
+        "CID": "SPANL211-02",
+        "CRN": "1569",
+        "Name": "Spanish Language & Culture IV",
+        "Prof": "garcia",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "22",
+        "Time": "MTRF/3:00/J213"
+    }
+]

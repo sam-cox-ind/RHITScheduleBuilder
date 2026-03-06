@@ -1,0 +1,662 @@
+[
+    {
+        "CID": "ANTHS303-OL1",
+        "CRN": "4025",
+        "Name": "Japanese Popular Culture",
+        "Prof": "christen",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ANTHS399-OL1",
+        "CRN": "4026",
+        "Name": "Cultures of Tibet",
+        "Prof": "grose",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CHEM111-OL1",
+        "CRN": "4001",
+        "Name": "General Chemistry I",
+        "Prof": "mueller",
+        "Hours": "3",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CHEM111L-OL1",
+        "CRN": "4002",
+        "Name": "General Chemistry I Lab",
+        "Prof": "mueller",
+        "Hours": "1",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CHEMRA100-OL1",
+        "CRN": "4003",
+        "Name": "General Chemistry I",
+        "Prof": "mueller",
+        "Hours": "6",
+        "Enrl": "5",
+        "Cap": "0",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE120-OL1",
+        "CRN": "4004",
+        "Name": "Intro to Software Development",
+        "Prof": "mutchler",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "32",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE120-OL2",
+        "CRN": "4068",
+        "Name": "Intro to Software Development",
+        "Prof": "mutchler",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "0",
+        "Time": "TBA"
+    },
+    {
+        "CID": "CSSE199-01",
+        "CRN": "4058",
+        "Name": "Professional Experience",
+        "Prof": "williarj",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE199-02",
+        "CRN": "4066",
+        "Name": "Professional Experience",
+        "Prof": "fisherds",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "CSSE230-OL1",
+        "CRN": "4005",
+        "Name": "Data Struct & Algorithm Anlys",
+        "Prof": "boutell",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "16",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE280-OL1",
+        "CRN": "4006",
+        "Name": "Intro to Web Programming",
+        "Prof": "fisherds",
+        "Hours": "4",
+        "Enrl": "24",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE280-OL2",
+        "CRN": "4063",
+        "Name": "Intro to Web Programming",
+        "Prof": "fisherds",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE286-OL1",
+        "CRN": "4007",
+        "Name": "Intro to Machine Learning",
+        "Prof": "chenowet",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE374-OL1",
+        "CRN": "4008",
+        "Name": "Software Design",
+        "Prof": "chenowet",
+        "Hours": "4",
+        "Enrl": "21",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "CSSE463-OL1",
+        "CRN": "4009",
+        "Name": "Image Recognition",
+        "Prof": "boutell",
+        "Hours": "4",
+        "Enrl": "16",
+        "Cap": "16",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ECE199-01",
+        "CRN": "4055",
+        "Name": "Professional Experience",
+        "Prof": "tba",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "ECE199-02",
+        "CRN": "4059",
+        "Name": "Professional Experience",
+        "Prof": "doering",
+        "Hours": "1",
+        "Enrl": "0",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "ECE362-SS1",
+        "CRN": "4056",
+        "Name": "Principles of Design",
+        "Prof": "tba",
+        "Hours": "3",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": "MWF/10:00-12:00/TBA"
+    },
+    {
+        "CID": "ECONS151-OL1",
+        "CRN": "4027",
+        "Name": "Introduction to Microeconomics",
+        "Prof": "pavel",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ECONS351-OL1",
+        "CRN": "4028",
+        "Name": "Environmental Economics",
+        "Prof": "pavel",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EM204-OL1",
+        "CRN": "4010",
+        "Name": "Statics & Mechanics of Mtls II",
+        "Prof": "bernala",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EM301-OL1",
+        "CRN": "4048",
+        "Name": "Fluid Mechanics",
+        "Prof": "marincel",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EM305-OL1",
+        "CRN": "4011",
+        "Name": "Adv CAD:Parametric Equat Desig",
+        "Prof": "mccormac",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT330-ONL",
+        "CRN": "4020",
+        "Name": "Intro to Engineering Managemt",
+        "Prof": "downing",
+        "Hours": "4",
+        "Enrl": "14",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT521-ONL",
+        "CRN": "4021",
+        "Name": "Financial Management",
+        "Prof": "james3",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT532-ONL",
+        "CRN": "4022",
+        "Name": "Technical Entrepreneurship",
+        "Prof": "james3",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "EMGT541-ONL",
+        "CRN": "4023",
+        "Name": "Work Analysis and Design",
+        "Prof": "momenipo",
+        "Hours": "4",
+        "Enrl": "6",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGD301-OL1",
+        "CRN": "4024",
+        "Name": "Creative Design",
+        "Prof": "tba",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "10",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGLH131-OL1",
+        "CRN": "4029",
+        "Name": "Introduction to Short Fiction",
+        "Prof": "carvill",
+        "Hours": "4",
+        "Enrl": "17",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGLH241-OL1",
+        "CRN": "4030",
+        "Name": "Introduction to Film Studies",
+        "Prof": "livingst",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGLH241-OL2",
+        "CRN": "4057",
+        "Name": "Introduction to Film Studies",
+        "Prof": "livingst",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ENGLH333-OL1",
+        "CRN": "4031",
+        "Name": "Creative Writing",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "5",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "GEOL270-OL1",
+        "CRN": "4051",
+        "Name": "Geology for Eng, Env Scientist",
+        "Prof": "sutterer",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "12",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "HUMH311-OL1",
+        "CRN": "4032",
+        "Name": "German Empire & its Colonies",
+        "Prof": "michel",
+        "Hours": "4",
+        "Enrl": "2",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "HUMH413-OL1",
+        "CRN": "4033",
+        "Name": "Nazi Germany: Fact and Fiction",
+        "Prof": "michel",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA113-SS2",
+        "CRN": "4044",
+        "Name": "Calculus III",
+        "Prof": "olsen",
+        "Hours": "5",
+        "Enrl": "22",
+        "Cap": "24",
+        "Time": "MTWRF/10:00-11:40/O267"
+    },
+    {
+        "CID": "MA221-OL1",
+        "CRN": "4049",
+        "Name": "Matrix Alg & Diff Equations I",
+        "Prof": "tarrant",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA222-SS1",
+        "CRN": "4039",
+        "Name": "Matrix Alg & Diff Equations II",
+        "Prof": "goulet",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "MTR/11:00-1:15/O269"
+    },
+    {
+        "CID": "MA223-OL1",
+        "CRN": "4040",
+        "Name": "Engineering Statistics I",
+        "Prof": "eldredge",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA223-OL2",
+        "CRN": "4060",
+        "Name": "Engineering Statistics I",
+        "Prof": "eldredge",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA276-OL1",
+        "CRN": "4041",
+        "Name": "Introduction to Proofs",
+        "Prof": "riehl",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA374-OL1",
+        "CRN": "4042",
+        "Name": "Combinatorics",
+        "Prof": "langley",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA381-OL1",
+        "CRN": "4043",
+        "Name": "Intro Problty w/ Appl to Stats",
+        "Prof": "mcsweene",
+        "Hours": "4",
+        "Enrl": "23",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MA381-OL2",
+        "CRN": "4052",
+        "Name": "Intro Problty w/ Appl to Stats",
+        "Prof": "mcsweene",
+        "Hours": "4",
+        "Enrl": "13",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME199-01",
+        "CRN": "4050",
+        "Name": "Professional Experience",
+        "Prof": "stoeckle",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "ME199-02",
+        "CRN": "4064",
+        "Name": "Professional Experience",
+        "Prof": "onyancha",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "ME199-03",
+        "CRN": "4065",
+        "Name": "Professional Experience",
+        "Prof": "cloutier",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "ME301-OL1",
+        "CRN": "4012",
+        "Name": "Applications of Thermodynamics",
+        "Prof": "mertzb",
+        "Hours": "4",
+        "Enrl": "9",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME302-OL1",
+        "CRN": "4013",
+        "Name": "Heat Transfer",
+        "Prof": "mertzb",
+        "Hours": "4",
+        "Enrl": "3",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME317-OL1",
+        "CRN": "4014",
+        "Name": "Design for Manufacturing",
+        "Prof": "mccormac",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME328-OL1",
+        "CRN": "4015",
+        "Name": "Materials Engineering",
+        "Prof": "riley1",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME397-SS1",
+        "CRN": "4053",
+        "Name": "Design for Assembly",
+        "Prof": "mccormac",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME397-SS2",
+        "CRN": "4054",
+        "Name": "Tolerance Analysis & App",
+        "Prof": "mccormac",
+        "Hours": "2",
+        "Enrl": "2",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME430-OL1",
+        "CRN": "4018",
+        "Name": "Mechatronic Systems",
+        "Prof": "fisherds",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "ME480-OL1",
+        "CRN": "4019",
+        "Name": "Machine Component Design",
+        "Prof": "riley1",
+        "Hours": "4",
+        "Enrl": "11",
+        "Cap": "24",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MUSIH101-OL1",
+        "CRN": "4034",
+        "Name": "Music Theory I",
+        "Prof": "chapman1",
+        "Hours": "4",
+        "Enrl": "19",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "MUSIH101-OL2",
+        "CRN": "4062",
+        "Name": "Music Theory I",
+        "Prof": "chapman1",
+        "Hours": "4",
+        "Enrl": "7",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "OE490-01",
+        "CRN": "4069",
+        "Name": "Optical System Optimization",
+        "Prof": "duree",
+        "Hours": "1",
+        "Enrl": "1",
+        "Cap": "1",
+        "Time": ""
+    },
+    {
+        "CID": "PH090-01",
+        "CRN": "4047",
+        "Name": "College Preparatory Physics",
+        "Prof": "popovic",
+        "Hours": "4",
+        "Enrl": "0",
+        "Cap": "0",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "PH113-SS1",
+        "CRN": "4045",
+        "Name": "Physics III",
+        "Prof": "granieri",
+        "Hours": "4",
+        "Enrl": "1",
+        "Cap": "20",
+        "Time": "MTRF/10:00-11:50/TBA"
+    },
+    {
+        "CID": "PH113L-SS1",
+        "CRN": "4046",
+        "Name": "Physics III Lab",
+        "Prof": "granieri",
+        "Hours": "0",
+        "Enrl": "1",
+        "Cap": "20",
+        "Time": "W/10:00-12:50/M203"
+    },
+    {
+        "CID": "PHILH403-OL1",
+        "CRN": "4035",
+        "Name": "Human Nature",
+        "Prof": "hartner",
+        "Hours": "4",
+        "Enrl": "20",
+        "Cap": "20",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "RH131-OL1",
+        "CRN": "4036",
+        "Name": "Rhetoric and Composition",
+        "Prof": "hartnett",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "15",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "RH330-OL1",
+        "CRN": "4037",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "atherton",
+        "Hours": "4",
+        "Enrl": "12",
+        "Cap": "15",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "RH330-OL2",
+        "CRN": "4038",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "15",
+        "Cap": "15",
+        "Time": "TBA/TBA/ONLINE"
+    },
+    {
+        "CID": "RH330-OL3",
+        "CRN": "4061",
+        "Name": "Tech & Professional Communictn",
+        "Prof": "minster",
+        "Hours": "4",
+        "Enrl": "4",
+        "Cap": "15",
+        "Time": "TBA/TBA/ONLINE"
+    }
+]

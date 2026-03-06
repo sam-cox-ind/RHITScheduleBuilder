@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <link rel="stylesheet" href="styles/bootstrap-material-design.min.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Rose Schedule Planner</title>
+</head>
+
+<body>
+
+  <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay">
+    <header class="bmd-layout-header">
+      <div class="navbar navbar-dark bg-faded fixed-top justify-content-start">
+        <button class="navbar-toggler" type="button" data-toggle="drawer" data-target="#dw-s2">
+          <span class="sr-only">Toggle drawer</span>
+          <i class="material-icons">menu</i>
+        </button>
+        <a class="navbar-brand" href="#">&nbsp;&nbsp;Rose Schedule Planner</a>
+      </div>
+    </header>
+    <div id="dw-s2" class="bmd-layout-drawer bg-faded">
+      <header>
+        <a class="navbar-brand"></a>
+      </header>
+      <ul class="list-group">
+        <a id="menuShowSchedules" class="list-group-item"><i class="material-icons">list</i>My Schedules</a>
+        <a id="menuShowScheduleBuilder" class="list-group-item"><i class="material-icons">construction</i>Schedule
+          Builder</a>
+        <a id="showClassSearch" class="list-group-item"><i class="material-icons">search</i>Class Search</a>
+        <a id="menuSignOut" class="list-group-item"><i class="material-icons">login</i>Sign Out</a>
+      </ul>
+    </div>
+    <main class="bmd-layout-content">
+      <div id="listPage" class="container page-container">
+        <div id="scheduleListContainer"></div>
+      </div>
+    </main>
+  </div>
+
+  <button id="fab" type="button" class="btn bmd-btn-fab" data-toggle="modal" data-target="#addScheduleDialog">
+    <i class="material-icons">add</i>
+  </button>
+
+  <button id="filterFab" type="button" class="btn bmd-btn-fab" data-toggle="modal" data-target="#filterScheduleDialog">
+    <i class="material-icons">filter_alt</i>
+  </button>
+
+
+  <!-- Modals -->
+  <div class="modal fade" id="addScheduleDialog" tabindex="-1" role="dialog" aria-labelledby="Add schedule dialog"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Add A Schedule</h5>
+        </div>
+        <div class="modal-body">
+          <div class="form-group bmd-form-group">
+            <label for="inputSchedName" class="bmd-label-floating">Schedule Name</label>
+            <input type="text" class="form-control" id="inputSchedName">
+            <span class="bmd-help">Schedule Name</span>
+          </div>
+          <div class="form-group bmd-form-group">
+              <button class="btn btn-outline-primary dropdown-toggle" type="button" id="quarterDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Quarter
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                <button class="dropdown-item" id="springBtn" type="button">Spring '23</button>
+                <button class="dropdown-item" id="summerBtn" type="button">Summer '23</button>
+                <button class="dropdown-item" id="fallBtn" type="button">Fall '23<button>
+              </div>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnOne" class="bmd-label-floating">CRN 1</label>
+            <input type="text" class="form-control" id="inputCrnOne">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnTwo" class="bmd-label-floating">CRN 2</label>
+            <input type="text" class="form-control" id="inputCrnTwo">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnThree" class="bmd-label-floating">CRN 3</label>
+            <input type="text" class="form-control" id="inputCrnThree">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnFour" class="bmd-label-floating">CRN 4</label>
+            <input type="text" class="form-control" id="inputCrnFour">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnFive" class="bmd-label-floating">CRN 5</label>
+            <input type="text" class="form-control" id="inputCrnFive">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnSix" class="bmd-label-floating">CRN 6</label>
+            <input type="text" class="form-control" id="inputCrnSix">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnSeven" class="bmd-label-floating">CRN 7</label>
+            <input type="text" class="form-control" id="inputCrnSeven">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="inputCrnEight" class="bmd-label-floating">CRN 8</label>
+            <input type="text" class="form-control" id="inputCrnEight">
+            <span class="bmd-help">CRN of class</span>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">CANCEL</button>
+          <button id="submitAddSchedule" type="button" class="btn btn-primary" data-dismiss="modal">CREATE</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="filterScheduleDialog" tabindex="-1" role="dialog" aria-labelledby="Filter schedule dialog"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Filter Schedules</h5>
+      </div>
+      <div class="modal-body">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="springCheckbox" checked>
+          <label class="form-check-label" for="springCheckbox">
+            Spring '23
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="summerCheckbox" checked>
+          <label class="form-check-label" for="summerCheckbox">
+            Summer '23
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="fallCheckbox" checked>
+          <label class="form-check-label" for="fallCheckbox">
+            Fall '23
+          </label>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">CANCEL</button>
+        <button id="submitFilterSchedule" type="button" class="btn btn-primary" data-dismiss="modal">FILTER</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <script src="scripts/jquery.min.js"></script>
+  <script src="scripts/popper.js"></script>
+  <script src="scripts/bootstrap-material-design.js"></script>
+  <script>
+    $("body").bootstrapMaterialDesign();
+  </script>
+  <script src="/__/firebase/7.18.0/firebase-app.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-analytics.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-firestore.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-auth.js"></script>
+  <script src="/__/firebase/init.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script type="module" src="scripts/main.js"></script>
+</body>
+
+</html>

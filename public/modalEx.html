@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <link rel="stylesheet" href="styles/bootstrap-material-design.min.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Schedule Planner</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-dark fixed-top">
+    <a class="navbar-brand" href="#">Schedule Planner</a>
+  </nav>
+
+  <button id="dayExample" type="button" class="btn bmd-btn-fab" data-toggle="modal" data-target="#dayDetailDialog">
+    day
+  </button>
+
+  <button id="classExample" type="button" class="btn bmd-btn-fab" data-toggle="modal" data-target="#classDetailDialog">
+    class
+  </button>
+
+  <button id="classExample" type="button" class="btn bmd-btn-fab" data-toggle="modal" data-target="#classDetailDialog">
+    test
+  </button>
+
+  <!-- Modals -->
+  <div class="modal fade" id="dayDetailDialog" tabindex="-1" role="dialog" aria-labelledby="day Detail Dialog"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Monday</h5>
+        </div>
+        <div class="modal-body">
+          <div class="form-group bmd-form-group">
+            <label for="classOne" class="bmd-label-floating">10:00: Calculus 1</label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classTwo" class="bmd-label-floating">11:00: Example Class</label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classThree" class="bmd-label-floating">1:00: Example Class</label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classFour" class="bmd-label-floating">2:00: Example Class</label>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">CANCEL</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="classDetailDialog" tabindex="-1" role="dialog" aria-labelledby="class Detail Dialog"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Calculus 1</h5>
+        </div>
+        <div class="modal-body">
+          <div class="form-group bmd-form-group">
+            <label for="classOne" class="bmd-label-floating">Professor: </label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classTwo" class="bmd-label-floating">Capacity: </label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classThree" class="bmd-label-floating">Time: </label>
+          </div>
+          <div class="form-group bmd-form-group">
+            <label for="classFour" class="bmd-label-floating">CRN: </label>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">CANCEL</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="scripts/jquery.min.js"></script>
+  <script src="scripts/popper.js"></script>
+  <script src="scripts/bootstrap-material-design.js"></script>
+  <script>
+    $("body").bootstrapMaterialDesign();
+  </script>
+  <script src="/__/firebase/7.18.0/firebase-app.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-analytics.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-firestore.js"></script>
+  <script src="/__/firebase/7.18.0/firebase-auth.js"></script>
+  <script src="/__/firebase/init.js"></script>
+  <script src="scripts/rosefire.min.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>
