@@ -7,6 +7,8 @@ Team: Sam Cox & Jonathan David
 
 Note: Project was developed with outdated dependencies to Rose Authentication, and consequently is in a non-working state
 
+![Example Schedule](example_schedule.jpg)
+
 ---
 
 ## Overview
